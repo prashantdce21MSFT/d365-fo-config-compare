@@ -1,0 +1,3638 @@
+[
+  {
+    "id": 78873,
+    "title": "Pricing management> During-sales pricing> Charge code> Auto charge (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New"
+  },
+  {
+    "id": 78977,
+    "title": "Rebate incentive: Billing code, Billing classification and journal name for free text invoice/Reversal journal (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New"
+  },
+  {
+    "id": 78985,
+    "title": "Bottle return incentive: Billing code, Billing classification and journal name for free text invoice/Reversal journal (MY60/SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New"
+  },
+  {
+    "id": 81299,
+    "title": "General Ledger > Ledger setup > General ledger parameters (Ledger parameters) > Ledger settlement accounts",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New"
+  },
+  {
+    "id": 36293,
+    "title": "Warehouse management > Setup > Warehouse > Warehouses [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 36252,
+    "title": "Inventory management -> Setup -> Quality control -> Test Groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 36253,
+    "title": "Inventory management -> Setup -> Quality control -> Quality associations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 36254,
+    "title": "Inventory management -> Setup -> Quality control -> Quality groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 36255,
+    "title": "Inventory management -> Setup -> Quality control -> Item Quality Groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 36241,
+    "title": "Inventory Management -> Setup -> Quality control -> Test (Quality)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 36448,
+    "title": "Product information management > Bills of materials and formulas > Acme > Auxiliary material consumption ratio",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 79171,
+    "title": "FDD-CRC-001: Customer wise Credit limit risk category (Depend on teh Customer master)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 68299,
+    "title": "Common for all the Integration: Source system",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 68302,
+    "title": "Consolidated master for Support Type (This is a separate master, these values will be selected in the respective journal set up for each interface)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 71192,
+    "title": "Discount configuraiton for SG60",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 78609,
+    "title": "IDD-FIN-015: PAF Claim Journal Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 78610,
+    "title": "IDD-FIN-016-Outlet Incentive Journal Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 56911,
+    "title": "Transportation management Setup Engines Zone master[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 56935,
+    "title": "DM4 -Transit time table - CBASupplierTransitTimeTableEntity",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "030. Data collection"
+  },
+  {
+    "id": 44495,
+    "title": "[FDD-TMS-002] Transportation management > Setup > Rating > Acme asia > Freight rate master [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "040. Initial review"
+  },
+  {
+    "id": 47862,
+    "title": "Empty: Empty group and line",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "040. Initial review"
+  },
+  {
+    "id": 36814,
+    "title": "Transportation management->Setup->Load building-> Load templates[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "040. Initial review"
+  },
+  {
+    "id": 36102,
+    "title": "Credit and collections > Setup > Credit management workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "040. Initial review"
+  },
+  {
+    "id": 78726,
+    "title": "FDD-TAX-001: Warehouse Related Set up for Excise (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "050. Waiting for feedback"
+  },
+  {
+    "id": 78727,
+    "title": "FDD-TAX-001: Auto Batch Job for any transfer order for ED moving average calculation (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "050. Waiting for feedback"
+  },
+  {
+    "id": 78728,
+    "title": "FDD-TAX-001: General Ledger Parameter related to Excise (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "050. Waiting for feedback"
+  },
+  {
+    "id": 61750,
+    "title": "FDD-TAX-001: (MY30) Excise duty function related fields available in the GL Parameter",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "050. Waiting for feedback"
+  },
+  {
+    "id": 36785,
+    "title": "Inventory management->Setup->Distribution->Transport days [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "050. Waiting for feedback"
+  },
+  {
+    "id": 44491,
+    "title": "[FDD-TMS-002] Transportation management > Setup > Rating > Acme asia > Freight rate master [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "060. Final review"
+  },
+  {
+    "id": 40570,
+    "title": "Transportation management->Setup->Carriers->Shipping carriers[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "060. Final review"
+  },
+  {
+    "id": 61596,
+    "title": "FDD-ARR-006: Ledger posting definition for sales and COGS, Invoiced for Free Beer (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "060. Final review"
+  },
+  {
+    "id": 59614,
+    "title": "FDD-CRC-001: Credit limit calculation workflow (MY60 and SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "060. Final review"
+  },
+  {
+    "id": 60345,
+    "title": "FDD-ARR-005: Distributor Incentive Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "060. Final review"
+  },
+  {
+    "id": 59617,
+    "title": "Credit and collections/Setup/ Credit management setup/ Account statuses",
+    "area": "1875-SmartCore-ASIA\\Finance and operation",
+    "state": "060. Final review"
+  },
+  {
+    "id": 36926,
+    "title": "Credit and collections > Setup > Customer pools",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "060. Final review"
+  },
+  {
+    "id": 36936,
+    "title": "General Ledger > Ledger setup > General ledger parameters (Ledger parameters)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36031,
+    "title": "Credit and collections > Setup > Set up interest codes (Not applicable for SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36782,
+    "title": "Inventory management->Setup->Inventory management workflows [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 59606,
+    "title": "FDD-CRC-001: Credit and collections/Setup/Acme Asia/Credit limit calculation parameter (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 59607,
+    "title": "FDD-CRC-001: Credit and collections/Setup/Acme Asia/Credit limit calculation parameter (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 59609,
+    "title": "CUT OVER WORK: FDD-CRC-001: (DM)Credit and collections/Setup/Acme Asia/Collateral security master (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 59611,
+    "title": "FDD-CRC-001: Credit and collections/Setup/Acme Asia/Margin of collateral (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 78611,
+    "title": "IDD-FIN-018-Rebate Accrual and Claim Journal set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36270,
+    "title": "Production control > Setup > Acme > Item variance rate setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36167,
+    "title": "Production control > Operations > All routes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36168,
+    "title": "Product information management > Bills of materials and formulas > Formulas",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36169,
+    "title": "Production control > Setup > Acme > Item and resource mapping",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "070. Master update"
+  },
+  {
+    "id": 42200,
+    "title": "Organization Administration > Setup > Microsoft Exchange Server synchronization > Microsoft Exchange Server Administration",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "070. Master update"
+  },
+  {
+    "id": 42201,
+    "title": "Organization Administration > Setup > Microsoft Exchange Server synchronization > Microsoft Exchange Server mapping",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "070. Master update"
+  },
+  {
+    "id": 42202,
+    "title": "Organization Administration > Setup > Microsoft Exchange Server synchronization > Microsoft Exchange Server parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "070. Master update"
+  },
+  {
+    "id": 42208,
+    "title": "Organization Administration > Setup > Organization email templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "070. Master update"
+  },
+  {
+    "id": 42205,
+    "title": "Organization Administration > Setup > Network printers",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "070. Master update"
+  },
+  {
+    "id": 42217,
+    "title": "Organization Administration > Organizations > Position hierarchy",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "070. Master update"
+  },
+  {
+    "id": 47863,
+    "title": "Empty: Empty groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "070. Master update"
+  },
+  {
+    "id": 62417,
+    "title": "Email template for empty deposit refund",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "070. Master update"
+  },
+  {
+    "id": 62418,
+    "title": "Email Subject and Body for email notification to customer when empties deposit is refunded (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "070. Master update"
+  },
+  {
+    "id": 57392,
+    "title": "Warehouse management->Setup->Cycle counting->Cycle count plans [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36817,
+    "title": "Warehouse management->Setup->Location directives [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36821,
+    "title": "Warehouse management->Setup->Worker [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36841,
+    "title": "Warehouse management->Setup->Work->Work templates [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36850,
+    "title": "Warehouse management->Setup->Warehouse->Location stocking limits [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36855,
+    "title": "Warehouse management->Setup->Warehouse->Unit sequence groups [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 38553,
+    "title": "Organization administration->Global address book->Addresses->Address set[MY] + [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36986,
+    "title": "Rebate management> Setup> Rebate agreement type (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36966,
+    "title": "Pricing management> Setup> Pricing management parameters (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36967,
+    "title": "Pricing management> Setup> Price attribute groups> Price attribute groups (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40246,
+    "title": "Pricing management> Setup> Pricing management parameters (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40247,
+    "title": "Pricing management> Setup> Price attribute groups> Price attribute groups (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40248,
+    "title": "Pricing management> Setup> Trade agreement prices > Trade agreement journal names (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40249,
+    "title": "Pricing management> Setup> Price component codes> Price component code groups (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40250,
+    "title": "Pricing management> Setup> Price component codes> Price component codes (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40251,
+    "title": "Pricing management> Setup> Price component codes> Price tree (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40256,
+    "title": "Sales and marketing> Prices and discounts> Customer price/discount groups (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36981,
+    "title": "Rebate management> Setup> Rebate management parameter (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 36982,
+    "title": "Rebate management> Setup> Rebate> management workflows (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 40563,
+    "title": "Inventory management->Setup->Journal names->Inventory [SG] & Item arrival journal",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "070. Master update"
+  },
+  {
+    "id": 47852,
+    "title": "Sales and marketing->Customers->All customers->Sell/Setup/Sellable days [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 47853,
+    "title": "Sales and marketing->Customers->All customers->Sell/Setup/Sellable days [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "070. Master update"
+  },
+  {
+    "id": 43891,
+    "title": "System administration > Users > User to Persons [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "070. Master update"
+  },
+  {
+    "id": 43892,
+    "title": "Product information management> Setup > Categories and attributes> Category hierarchy role associations [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 43893,
+    "title": "System administration > Users > User groups [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 43894,
+    "title": "Organization administration > Workflow > Workflow parameters [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 43883,
+    "title": "Procurement and sourcing > Setup > Policies > Purchasing policies > Category policy rule [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 43886,
+    "title": "Procurement and sourcing > Setup > Policies > Purchasing policies > Purchase order creation and demand consolidation rule [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 43902,
+    "title": "Procurement and sourcing > Setup > Vendors > Vendor reasons [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 43890,
+    "title": "Human resources > Jobs > Jobs [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40561,
+    "title": "Inventory management->Setup->Inventory breakdown->Inventory aisles [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40562,
+    "title": "Inventory management->Setup->Inventory breakdown->Inventory locations [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36983,
+    "title": "Rebate management> posting setup > Rebate management posting profiles (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40558,
+    "title": "Inventory management->Setup->Inventory->Counting reason codes [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40553,
+    "title": "Inventory management->Setup->Inventory and warehouse management parameters [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40554,
+    "title": "Inventory management->Setup->Inventory management workflows [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37040,
+    "title": "Asset Management > Setup > Maintenance checklists > Maintenance checklist variables",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37041,
+    "title": "Asset Management > Setup > Maintenance checklists > Maintenance checklist templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37042,
+    "title": "Asset management > Setup > Work orders > Lifecycle states",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37043,
+    "title": "Asset management > Setup > Work orders > Lifecycle models",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37044,
+    "title": "Asset Management > Setup > Work orders > Project setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37045,
+    "title": "Asset Management > Setup > Work orders > Service level",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37046,
+    "title": "Asset management > Setup > Work orders > Descriptions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37047,
+    "title": "Asset Management > Setup > Work orders > Scheduled execution",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37048,
+    "title": "Asset management > Setup > Work orders > Work order types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37049,
+    "title": "Asset Management > Setup > Work orders > Maintenance downtime reason codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37050,
+    "title": "Asset Management > Setup > Workers > Workers",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37051,
+    "title": "Asset Management > Setup > Workers > Maintenance worker groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37052,
+    "title": "Asset Management > Setup > Workers > Responsible maintenance workers",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37053,
+    "title": "Asset Management > Setup > Workers > Preferred maintenance workers",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37054,
+    "title": "Asset Management > Setup > Asset management parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37055,
+    "title": "Asset Management > Setup > Asset criticalities",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37056,
+    "title": "Asset Management > Setup > Asset service levels",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 37066,
+    "title": "Asset management > Setup > Attribute types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40165,
+    "title": "Product information management> Setup > Categories and attributes> Category hierarchies [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\MDM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36856,
+    "title": "Warehouse management->Setup->Release to warehouse->Fulfillment policies [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36858,
+    "title": "Warehouse management->Setup->GS1->GS1 application identifiers [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36859,
+    "title": "Warehouse management->Setup->GS1->GS1 generic setup [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36860,
+    "title": "Warehouse management->Setup->GS1->GS1 policy [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36861,
+    "title": "Asset management > Setup > Jobs > Maintenance job type categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36862,
+    "title": "Asset management > Setup > Jobs > Maintenance job types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36874,
+    "title": "Asset management > Setup > Jobs > Maintenance job type variants",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36875,
+    "title": "Asset management > Setup > Jobs > Maintenance job trade",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36882,
+    "title": "Sales and marketing->Setup->Customers->Customer classification groups [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36851,
+    "title": "Warehouse management->Setup->Warehouse->Location profiles [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36852,
+    "title": "Warehouse management->Setup->Warehouse->Location types [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36853,
+    "title": "Warehouse management->Setup->Warehouse->Warehouse zone groups [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36854,
+    "title": "Warehouse management->Setup->Warehouse->Zones [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36844,
+    "title": "Warehouse management->Setup->Work->Work exceptions [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36846,
+    "title": "Warehouse management->Setup->Work->Work classes [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36847,
+    "title": "Warehouse management->Setup->Work->Work pools [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36849,
+    "title": "Warehouse management->Setup->Warehouse->Location formats [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36822,
+    "title": "Warehouse management->Setup->Waves->Wave templates [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36824,
+    "title": "Warehouse management->Setup->Waves->Wave process methods [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36825,
+    "title": "Warehouse management->Setup->Inventory->Adjustment types [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36826,
+    "title": "Warehouse management->Setup->Inventory->Movement types [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36827,
+    "title": "Warehouse management->Setup->Inventory->Inventory statuses [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36830,
+    "title": "Warehouse management->Setup->Inventory->Reservation hierarchy [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36831,
+    "title": "Warehouse management->Setup->Inventory->Blocking causes [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36832,
+    "title": "Warehouse management->Setup->Mobile device->Mobile device menu [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36833,
+    "title": "Warehouse management->Setup->Mobile device->Mobile device menu items [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36834,
+    "title": "Warehouse management->Setup->Mobile device->Disposition codes [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36835,
+    "title": "Warehouse management->Setup->Mobile device->Warehouse app field names [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36836,
+    "title": "Warehouse management->Setup->Mobile device->Warehouse app field priority [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36837,
+    "title": "Warehouse management->Setup->Mobile device->Mobile device steps [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36819,
+    "title": "Warehouse management->Setup->Number sequence extensions [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36820,
+    "title": "Warehouse management->Setup->Load posting methods [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36815,
+    "title": "Transportation management->Setup->Load building->Equipment[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36816,
+    "title": "Warehouse management->Setup->Warehouse management parameters [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36458,
+    "title": "Inventory management -> Setup -> Quality management -> Correction root cause codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36460,
+    "title": "Inventory management -> Setup -> Quality management -> Diagnostic types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36780,
+    "title": "Asset management > Setup > Maintenance requests > Maintenance request types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36786,
+    "title": "Inventory management->Setup->Distribution->Arrival overview profiles [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36788,
+    "title": "Asset management > Setup > Maintenance requests > Lifecycle states",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36789,
+    "title": "Asset management > Setup > Maintenance requests > Lifecycle models",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36792,
+    "title": "Inventory management->Setup->Inventory->Blocking causes [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36793,
+    "title": "Inventory management->Setup->Inventory->Counting reason codes [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36794,
+    "title": "Inventory management->Setup->Inventory->Counting reason code groups [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36795,
+    "title": "Inventory management->Setup->Inventory->Counting reason code policies [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36796,
+    "title": "Inventory management->Setup->Inventory breakdown->Inventory aisles [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36797,
+    "title": "Inventory management->Setup->Inventory breakdown->Inventory locations [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36798,
+    "title": "Inventory management->Setup->Journal names->Inventory [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36804,
+    "title": "Transportation management->Setup->Transportation management parameters [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36805,
+    "title": "Transportation management->Setup->Transportation status masters[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36806,
+    "title": "Transportation management->Setup->Appointment scheduling->Appointment rules[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36807,
+    "title": "Transportation management->Setup->Appointment scheduling->Appointment change reasons[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36808,
+    "title": "Transportation management->Setup->Carriers->Shipping carriers[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36809,
+    "title": "Transportation management->Setup->Carriers->Carrier group[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36811,
+    "title": "Transportation management->Setup->Carriers->Transportation methods[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36813,
+    "title": "Transportation management->Setup->Carriers->Transportation templates[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36525,
+    "title": "Inventory and warehouse management parameters -> Quality Fast Tab",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36742,
+    "title": "Asset management > Setup > Functional locations > Functional location types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36743,
+    "title": "Asset management > Setup > Functional locations > Lifecycle states",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36744,
+    "title": "Asset management > Setup > Functional locations > Lifecycle models",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36745,
+    "title": "Asset Management > Setup > Assets > Manufacturers and models",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36749,
+    "title": "Asset management > Setup > Assets > Spare parts item groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36750,
+    "title": "Asset Management > Setup > Assets > Criticality types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36753,
+    "title": "Asset Management > Setup > Assets > Lifecycle states",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36754,
+    "title": "Asset management > Setup > Assets > Lifecycle models",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36755,
+    "title": "Asset management > Setup > Asset types > Asset types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36756,
+    "title": "Asset management > Setup > Asset types > Asset type defaults",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36757,
+    "title": "Asset management > Setup > Asset types > Counters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36759,
+    "title": "Asset Management > Setup > Asset types > Condition assessment templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36760,
+    "title": "Asset management > Setup > Fault > Fault symptoms",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36761,
+    "title": "Asset management > Setup > Fault > Fault areas",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36762,
+    "title": "Asset management > Setup > Fault > Fault types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36763,
+    "title": "Asset management > Setup > Fault > Fault designer",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36764,
+    "title": "Sales and marketing->Setup->Sales and marketing parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36765,
+    "title": "Sales and marketing->Setup->Sales and marketing parameters ->Sales number sequence",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36766,
+    "title": "Sales and marketing->Setup->Sales orders->Order pools",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36767,
+    "title": "Asset management > Setup > Fault > Fault causes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36768,
+    "title": "Asset management > Setup > Fault > Fault remedies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36777,
+    "title": "Asset management > Setup > Preventive maintenance > Acme > Maintenance plans",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 57569,
+    "title": "Asset management > Setup > Attribute types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 59621,
+    "title": "RDD-QCP-002: Inventory and warehouse management -> Setup -> Inventory and warehouse management parameters ->Acme-> NC (POH) Revision Number",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 56912,
+    "title": "Transportation management Setup Engines Zone master[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 56328,
+    "title": "Empty: High level of empties at customers / distributors configuration",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 31540,
+    "title": "Procurement and sourcing > Setup > Policies > Purchasing policies > Category access policy rule [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 47860,
+    "title": "Empty: TIDE / UNTIDE (Empty) / Consignment",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 31543,
+    "title": "Procurement and sourcing->Setup->Purchase orders->Return action",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 44496,
+    "title": "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Package size type [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 44497,
+    "title": "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Freight unit matrix table[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 51991,
+    "title": "Asset management > Setup > Acme Asia > Reason code for spare part changes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\EAM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 50756,
+    "title": "FDD-QCA-003 Batch Job Creation System Administration --> Enquiries --> Batch Jobs.",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 50758,
+    "title": "FDD-QCA-003 Quality Association Configuration, Inventory Management -> Setup -> Quality Control-> Quality Association",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 51794,
+    "title": "[RDD-QCP-001] Inventory Management -> Setup -> Inventory and warehouse management parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 44043,
+    "title": "Product information management > Setup > Product lifecycle state [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\MDM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 44492,
+    "title": "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Package size type [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 44493,
+    "title": "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Freight unit matrix table[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 44494,
+    "title": "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Holiday markup rate [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40566,
+    "title": "Transportation management->Setup->Transportation management parameters[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40567,
+    "title": "Transportation management->Setup->Transportation status masters[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40568,
+    "title": "Transportation management->Setup->Appointment scheduling->Appointment rules[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40569,
+    "title": "Transportation management->Setup->Appointment scheduling->Appointment change reasons[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40571,
+    "title": "Transportation management->Setup->Carriers->Carrier group[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40573,
+    "title": "Transportation management->Setup->Carriers->Transportation methods[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40575,
+    "title": "Transportation management->Setup->Carriers->Transportation templates[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40576,
+    "title": "Transportation management->Setup->Load building-> Load templates [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40577,
+    "title": "Transportation management->Setup->Load building->Equipment[SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40637,
+    "title": "Inventory management -> Setup -> Quality control -> Calibration label Layout",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 41430,
+    "title": "Product information management > Setup > Categories and attributes > Product attribute type and Product attribute [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\MDM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42137,
+    "title": "Product information management > Setup > Product information management parameters [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\MDM",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36170,
+    "title": "Production control > Setup > Acme > Configure batch number rule",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36153,
+    "title": "Production control > Setup > Production control parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36158,
+    "title": "Production control > Setup > Production journal names",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36159,
+    "title": "Production control > Setup > Production > Production pools",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36336,
+    "title": "Inventory Management -> Setup -> Quality control -> Item samplings",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36165,
+    "title": "Production control > Setup > Calendars > Calendars",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36166,
+    "title": "Production control > Setup > Calendars > Working time templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 78608,
+    "title": "IDD-FIN-104: PAF Accrual Journal Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36238,
+    "title": "Inventory Management -> Setup -> Quality Control -> Test Instrument",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36242,
+    "title": "Inventory management -> Setup -> Quality control -> Test Variables",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36451,
+    "title": "Production control > Setup > Acme asia > Global setting > Batch number configuration database table",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36452,
+    "title": "Inventory Management --> Setup -> Quality control -> Calibration group",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36453,
+    "title": "Inventory management -> Setup -> Quality control -> Calibration procedures",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36463,
+    "title": "Inventory management -> Setup -> Quality management -> Non conformance operation groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36465,
+    "title": "Inventory management -> setup -> Quality management -> Non conformance work groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36466,
+    "title": "Inventory management -> Setup -> Quality management -> Operation (Quality )",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36467,
+    "title": "Inventory management -> Setup -> Quality management -> Problem types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36469,
+    "title": "Inventory management -> Setup -> Batch -> Batch disposition master",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36470,
+    "title": "Inventory management -> Setup -> Acme Asia -> Quality User Group",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36471,
+    "title": "Inventory management -> Setup -> Acme Asia ->Movement journal reason code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36472,
+    "title": "Inventory management -> Setup -> Acme Asia -> Test value modify reason code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36473,
+    "title": "Inventory management -> Setup -> Acme Asia -> Global Setting -> Sample name code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36474,
+    "title": "Inventory management -> Setup -> Acme Asia -> Global setting -> Test classification code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 62150,
+    "title": "MY30: Global Tax Engine Set Up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 67251,
+    "title": "FDD-ACT-006: Mapping of Financial Dimensions with Warehouse",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 67905,
+    "title": "FDD-ARR-003: Sponsorship Accrual Parameter",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 59713,
+    "title": "Tax/Indirect taxes/Sales tax/Tax percentage or Per unit for each sales tax code MY30",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 59610,
+    "title": "FDD-CRC-001: Credit and collections/Setup/Acme Asia/Collateral reminder frequency (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 57255,
+    "title": "Sales Order Invoice for MY30 (There is no breakup for East of MY v/s other than MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 54735,
+    "title": "FDD-ACT-003: Configuration Geography Fin Dim values related to East of MY to display the Packing slip not invoiced",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 54738,
+    "title": "FDD-ACT-003: East of MY Invoice Batch Job",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 54739,
+    "title": "FDD-ACT-003: Sales invoice (Geography (Not equal to L,M,S,T,K3)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42133,
+    "title": "Inventory management > Setup > Posting > Posting > Standard Cost Variance",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42136,
+    "title": "Production control > Setup > Production control parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36934,
+    "title": "Accounts receivable > Setup > Accounts receivable parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42097,
+    "title": "Project management and accounting > Setup > Project management and accounting parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42768,
+    "title": "Accounts payable > Setup > Accounts payable workflows > Freight invoice approval",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42011,
+    "title": "Procurement and sourcing > Setup > Charges > Charges code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42017,
+    "title": "Cost accounting > Dimensions > Cost object dimensions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42018,
+    "title": "Cost accounting > Dimensions > Statistical dimensions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42019,
+    "title": "Cost accounting > Dimensions > Dimension hierarchies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42025,
+    "title": "Cost accounting > Policies > Cost rollup policies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42026,
+    "title": "Cost accounting > Policies > Cost allocation policies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42029,
+    "title": "Cost management > Inventory accounting policies setup > Parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42030,
+    "title": "Cost management > Inventory accounting policies setup > Cost groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40341,
+    "title": "General ledger > Journal setup > General ledger workflow",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 41996,
+    "title": "Cost accounting > Setup > Parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 41997,
+    "title": "Cost accounting > Setup > Statistical measure provider templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42000,
+    "title": "Project Management and Accounting > Setup > Categories > Category Group",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42001,
+    "title": "Cost accounting > Ledger setup > Cost accounting ledgers",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42003,
+    "title": "Project Management and Accounting > Setup > Line Properties > Line Properties",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42004,
+    "title": "Project Management and Accounting > Setup > Posting > Project Groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42048,
+    "title": "Cost management > Manufacturing accounting policies setup > Parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42049,
+    "title": "Cost management > Manufacturing accounting policies setup > Shared categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42053,
+    "title": "Cost management > Ledger integration policies setup > Parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42055,
+    "title": "Cost management > Ledger integration policies setup > Cost categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42056,
+    "title": "Cost management > Ledger integration policies setup > Costing sheets",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42057,
+    "title": "Cost management > Predetermined cost policies setup > Costing versions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42058,
+    "title": "Cost management > Predetermined cost policies setup > Calculation groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42034,
+    "title": "Cash and bank management > Setup > Bank groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42062,
+    "title": "Fixed Assets > Setup > Fixed asset posting profiles (Fixed asset posting profile)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42063,
+    "title": "Fixed Assets > Setup > Fixed asset posting profiles (Fixed asset posting profile disposal)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42064,
+    "title": "Fixed assets > Setup > Fixed asset groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36291,
+    "title": "Inventory management->Setup->Inventory and warehouse management parameters [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36292,
+    "title": "Inventory management->Setup->Inventory breakdown->Sites",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42070,
+    "title": "Cost management > Inventory accounting policies setup > Inventory value reports",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42085,
+    "title": "Fixed Assets > Setup > Fixed Assets Workflows > Ledger post fixed assets journal workflow",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42103,
+    "title": "Project Management and Accounting > Setup > Categories > Project Category",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42104,
+    "title": "Project Management and Accounting > Setup > Forecast-> Forecast Model",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42108,
+    "title": "Project Management and Accounting > Setup > Line Properties > Project/Group Line Properties",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42109,
+    "title": "Project Management and Accounting > Setup > Posting > Ledger Posting Setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42123,
+    "title": "Project Management and Accounting > Setup > Estimates-> Cost Template",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42128,
+    "title": "Project management and accounting Setup > Project management and accounting workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42129,
+    "title": "Inventory management > Setup > Inventory and warehouse management parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42130,
+    "title": "Inventory management > Setup > Posting > Posting > Procurement",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 42131,
+    "title": "Inventory management > Setup > Posting > Posting > Production",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36100,
+    "title": "Credit and collections > Setup > Customer write-off reason codes > Customer write-off reason codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36295,
+    "title": "Inventory management > Setup > Inventory > Item model groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36787,
+    "title": "Inventory management > Setup > Inventory > Item groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36917,
+    "title": "Accounts receivable > Setup > Billing classifications",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36932,
+    "title": "Accounts receivable > Setup > Customer posting profiles",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36941,
+    "title": "General Ledger > Journal setup > Ledger reasons (Financial reasons)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36953,
+    "title": "Accounts payable > Payment setup > Methods of payment",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36929,
+    "title": "Credit and collections > Setup > Credit and collections parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36930,
+    "title": "Accounts receivable > Setup > Payment setup > Terms of payment",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 36923,
+    "title": "Credit and collections > Setup > Credit management setup > Blocking rules",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40330,
+    "title": "General Ledger > Chart of accounts > Dimensions > Financial dimensions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40348,
+    "title": "General Ledger > Currencies > Currency revaluation accounts",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "080. Ready for approval"
+  },
+  {
+    "id": 40349,
+    "title": "Organization administration > Organizations > Legal entities",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40362,
+    "title": "General ledger > Ledger setup > Ledger > MY30-Accounting Currency and Reporting currency",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40390,
+    "title": "General ledger > Ledger setup > Ledger > MY60-Accounting Currency and Reporting currency",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40392,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding Tax code & Sales tax code for AP [MY30] [MY60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40393,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding Tax group [MY30] [MY60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40394,
+    "title": "Tax > Indirect taxes > Withholding tax > Item withholding tax group [MY30] [MY60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40395,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding tax authorities [MY30] [MY60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40396,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding tax settlement period [MY30] [MY60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40404,
+    "title": "General ledger > Ledger setup > Ledger > SG60-Accounting Currency and Reporting currency",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40406,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding Tax code & Sales tax code for AP [SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40407,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding Tax group [SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40408,
+    "title": "Tax > Indirect taxes > Withholding tax > Item withholding tax group [SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40409,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding tax authorities [SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40410,
+    "title": "Tax > Indirect taxes > Withholding tax > Withholding tax settlement period [SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 41979,
+    "title": "Accounts payable > Payment setup > Payment calendar",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40331,
+    "title": "General Ledger > Chart of accounts > Dimensions > Financial dimension sets",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40332,
+    "title": "General Ledger > Chart of accounts > Dimensions > Financial dimensions (Financial dimension value legal entity overrides)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40333,
+    "title": "General Ledger > Chart of accounts > Structures > Configure account structures",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40334,
+    "title": "General Ledger > Calendars > Ledger calendars",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40335,
+    "title": "General Ledger > Calendars > Fiscal calendars",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40336,
+    "title": "General Ledger > Ledger setup > Ledger",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40338,
+    "title": "General Ledger > Ledger setup > Date Intervals",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40339,
+    "title": "General ledger > Ledger setup > Financial reporting setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40340,
+    "title": "General Ledger > Journal setup > Journal name",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36957,
+    "title": "Accounts payable > Setup > Accounts payable parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36958,
+    "title": "Accounts payable > Setup > Aging period definitions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36960,
+    "title": "Accounts payable > Setup > Summary update parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36961,
+    "title": "Accounts payable > Setup > Vendor posting profiles",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36963,
+    "title": "Accounts payable > Vendors > Vendor groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36964,
+    "title": "Accounts payable > Setup > Accounts payable workflows > Vendor invoice journal workflow",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36921,
+    "title": "Credit and collections > Setup > Credit management setup > Credit management groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36922,
+    "title": "Credit and collections > Setup > Credit management setup > Credit management reasons",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36931,
+    "title": "Accounts receivable > Setup > Payment setup > Methods of payment (Customer payment method)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36928,
+    "title": "Credit and collections > Setup > Aging period definitions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36943,
+    "title": "General Ledger > Posting setup > Accounts for automatic transactions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36951,
+    "title": "Accounts payable > Invoice matching setup > Price tolerances",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36933,
+    "title": "Accounts receivable > Setup > Customer groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36937,
+    "title": "General Ledger > Calendars > Ledger calendars (Ledger fiscal calendar period)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36939,
+    "title": "General Ledger > Ledger setup > Date Intervals",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36014,
+    "title": "Credit and collections > Setup > Credit and collections parameters > Set up number sequences for Collection letter and Collection letter voucher",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36012,
+    "title": "Accounts receivable/Account payable/Cash and bank > Payments Netting > Netting agreement > Finalization of the Netting GL Account",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 35233,
+    "title": "General ledger > Chart of accounts > Accounts > Main accounts > Main account legal entity overrides (Previous Name Chart of Account)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 35234,
+    "title": "General Ledger > Chart of accounts > Dimensions > Financial dimensions (Derived dimensions values)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42132,
+    "title": "Inventory management > Setup > Posting > Posting > Sales",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42086,
+    "title": "Inventory management > Setup > Posting > Transaction combinations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42088,
+    "title": "Inventory management > Setup > Charges > Charges code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42089,
+    "title": "Inventory management > Setup > Posting > Posting > Inventory",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42093,
+    "title": "Procurement and sourcing > Setup > Charges > Automatic charges",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42066,
+    "title": "Fixed Assets > Setup > Fixed asset attributes > Major types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42037,
+    "title": "Cash and bank management > Setup > Payment purpose codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42060,
+    "title": "Fixed Assets > Setup > Fixed assets parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42061,
+    "title": "Fixed Assets > Setup > Depreciation profiles",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42008,
+    "title": "Cost accounting > Dimensions > Cost element dimensions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42009,
+    "title": "Accounts payable > Payment setup > Terms of payment",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42010,
+    "title": "Accounts payable > Payment setup > Payment schedules",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 41998,
+    "title": "Cost accounting > Setup > Cost control workspace configuration",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 41999,
+    "title": "Cost accounting > Setup > Data connector system instances",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40343,
+    "title": "General Ledger > Currencies > Exchange rate types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40344,
+    "title": "General Ledger > Currencies > Currency exchange rates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 41993,
+    "title": "Cash and bank management > Setup > Cash and bank management parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40324,
+    "title": "General Ledger > Chart of accounts > Accounts > Chart of accounts",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40325,
+    "title": "General Ledger > Chart of accounts > Accounts > Main accounts",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40326,
+    "title": "General Ledger > Chart of accounts > Accounts > Main account categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40327,
+    "title": "General Ledger > Currencies > Currencies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42214,
+    "title": "Organization Administration > Setup > Calendars > Period types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42720,
+    "title": "Procurement and sourcing > Setup > Charges > Item charge groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42766,
+    "title": "Accounts payable > Setup > Accounts payable workflows > Vendor invoice",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42222,
+    "title": "Organization Administration > Global address book > Registration types > Registration types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42078,
+    "title": "Fixed Assets > Setup > Books",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42180,
+    "title": "General ledger > Chart of accounts > Dimensions > Financial dimension configuration for integration applications",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42182,
+    "title": "General ledger > Ledger setup > Financial reporting setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42138,
+    "title": "General Ledger > Chart of accounts > Structures > Advanced rule structures",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42145,
+    "title": "General ledger > Journal setup > Accrual schemes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42146,
+    "title": "Organization Administration > Document management > Active document tables",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42147,
+    "title": "General ledger > Acme > Global setting > HFM setup table > HFM main account mapping table",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 55813,
+    "title": "General ledger > Acme > Global setting > HFM setup table > ASIA Brand",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 46307,
+    "title": "Budgeting > Setup > Basic budgeting > Budget models",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 46308,
+    "title": "Budgeting > Setup > Basic budgeting > Dimensions for budgeting",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 48880,
+    "title": "FDD-ACT-006- Master data for Channel, Geography and Subbrand with Local and Global mapping",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 57256,
+    "title": "Sales Order Invoice for SG60",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 50192,
+    "title": "General ledger > Acme > Global setting > HFM setup table > HFM entity mapping table",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 50229,
+    "title": "General ledger > Acme > Global setting > HFM setup table > HFM setup table",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59608,
+    "title": "FDD-CRC-001: Credit and collections/Setup/Acme Asia/Collateral security type (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61051,
+    "title": "FDD-ARR-006: Ledger posting definition for sales and COGS, Invoiced for Free Beer (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61057,
+    "title": "FDD-ARR-006: Order Purpose: Sales for Free Beer (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61119,
+    "title": "SG60_Sales Tax Code for excise etc",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61120,
+    "title": "SG60: Tax Codes with Rate of Tax/Duty",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61121,
+    "title": "SG60 Item Sales Tax Group (This will be attached with Dutiable items)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61122,
+    "title": "SG60: Sales Tax Group (This will be configured with the customer)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61431,
+    "title": "Channel Financial Dimension (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61432,
+    "title": "CostCenter Financial Dimension (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61433,
+    "title": "FreeDimension1 (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61434,
+    "title": "FreeDimension2 (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61435,
+    "title": "FunctionalArea Financial Dimensions (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61436,
+    "title": "Geography Financial Dimension (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61437,
+    "title": "Intercompany Financial Dimension (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61438,
+    "title": "Subbrand Financial Dimension (MYSG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61594,
+    "title": "FDD-ARR-006: Order Purpose: Sales for Free Beer (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59714,
+    "title": "Tax/Indirect taxes/Sales tax/Item Sales tax group MY30",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59881,
+    "title": "Configurations related to Advance payment against sales order",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 60287,
+    "title": "FDD-ARR-004: Sales order credit prioritization (MY60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59615,
+    "title": "FDD-CRC-001: Credit and collections/Setup/Acme Asia/Credit term ratio (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59711,
+    "title": "Tax/Indirect taxes/Sales tax/Sales tax codes MY30",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59712,
+    "title": "Tax/Indirect taxes/Sales tax/Sales tax group MY30",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 61753,
+    "title": "FDD-ACT-002: Additional fields related to Accounts closing FDD in GL Parameter",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 59613,
+    "title": "Campaign Financial Dimension Values for MYSG",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42102,
+    "title": "Project Management and Accounting > Setup > Journals > Journal Names",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 78685,
+    "title": "FDD-TAX-001: Tax Ledger posting groups (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 78725,
+    "title": "FDD-TAX-001: Sales Tax Authority for Excise (SG60)- Vendor Master data dependency",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 78607,
+    "title": "IDD-FIN-013-Entitlement Journal Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 78736,
+    "title": "Sales tax settlement periods (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 80183,
+    "title": "Discount master for MY60",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36161,
+    "title": "Production control > Setup > Routes > Operations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36162,
+    "title": "Production control > Setup > Routes > Route groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36164,
+    "title": "Production control > Setup > Resources > Resource groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36171,
+    "title": "Production control > Setup > Acme > Configure production notification",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43887,
+    "title": "Accounts payable > Setup > Accounts payable workflows > Workflow approval for proposed vendor change (bank account) [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\MDM",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43954,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales region [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43955,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales organization",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43956,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales segment(Geo-L2) [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43957,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sub-geography(Geo-L3) [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43958,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Region(Geo-L4) [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43959,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Area(Geo-L5) [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43960,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales office(Geography) [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43961,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L4 [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43962,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L3 [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43963,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L1 [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43964,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Global Sub Channel [MY] [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 49607,
+    "title": "Warehouse management > Setup > Warehouse > Warehouses [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "090. Approved"
+  },
+  {
+    "id": 55870,
+    "title": "Product information management> Setup > Dimension and variant groups> Storage dimension group & Tracking dimension group[MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\MDM",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31545,
+    "title": "Procurement and sourcing > Setup > Vendors > Certification types [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31546,
+    "title": "Procurement and sourcing > Setup > Vendors > Line of business [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31547,
+    "title": "Procurement and sourcing > Setup > Distribution > Mode of delivery [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31548,
+    "title": "Procurement and sourcing > Setup > Distribution > Terms of delivery [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31549,
+    "title": "Procurement and sourcing > Setup > Workflow > Purchase order workflow [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31550,
+    "title": "Procurement and sourcing > Setup > Workflow > Purchase requisition workflow [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31551,
+    "title": "Procurement and sourcing > Setup > Business justification [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36776,
+    "title": "Organization administration >  Global address book > Address and contact information purpose [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36790,
+    "title": "Sales and marketing  > Setup >  Prospects > Business classifications [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 38415,
+    "title": "Sales and marketing  > Setup >  Prospects > Segment & Sub segment [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 42134,
+    "title": "Procurement and sourcing > Setup > Procurement and sourcing parameters [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31542,
+    "title": "Procurement and sourcing > Setup > Purchase orders > Purchase pools [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 31536,
+    "title": "Procurement and sourcing > Setup > Procurement and sourcing parameter > Number sequence [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 56335,
+    "title": "Incentive on return empty",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36778,
+    "title": "Sales and marketing->Setup->Sales orders->Order hold codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36481,
+    "title": "Product information management > Setup > Categories and attributes > Batch attributes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36883,
+    "title": "Sales and marketing->Setup->Distribution->Terms of delivery",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40556,
+    "title": "Inventory management->Setup->Distribution->Arrival overview profiles [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36887,
+    "title": "Sales and marketing->Setup->Returns->Disposition codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36888,
+    "title": "Sales and marketing->Setup->Returns->Return reason code groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36889,
+    "title": "Sales and marketing->Setup->Returns->Return reason codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 40259,
+    "title": "Pricing management> During-sales pricing> Charge code> Auto charge (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36968,
+    "title": "Pricing management> Setup> Trade agreement prices > Trade agreement journal names (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36969,
+    "title": "Pricing management> Setup> Price component codes> Price component code groups (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36970,
+    "title": "Pricing management> Setup> Price component codes> Price component codes (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36971,
+    "title": "Pricing management> Setup> Price component codes> Price tree (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36976,
+    "title": "Sales and marketing> Prices and discounts> Customer price/discount groups (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 36980,
+    "title": "Pricing management> During-sales pricing> Charge code> Auto charge (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43881,
+    "title": "Organization administration > Setup > Signing limits > COA setup [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43965,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43966,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > CPG name [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43967,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Commercial hierarchy 1",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43968,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Commercial hierarchy 2",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43969,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Commercial hierarchy 3",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 44650,
+    "title": "Procurement and sourcing > Setup > Procurement and sourcing parameters > Acme asia > Vendor field validation [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 44651,
+    "title": "Procurement and sourcing > Setup > Procurement and sourcing parameters > Acme asia > Send PO document via Email [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 44652,
+    "title": "Procurement and sourcing > Setup > Procurement and sourcing parameters > Acme asia > PR generate PO [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 44653,
+    "title": "Accounts payable > Setup > Accounts payable parameters > Acme asia > Vendor email contact information approval [MY30,MY,60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43888,
+    "title": "Procurement and sourcing > Setup > Policies > Purchase requisition permissions [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43884,
+    "title": "Procurement and sourcing > Setup > Policies > Purchasing policies > Purchase requisition control rule [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43885,
+    "title": "Procurement and sourcing > Setup > Policies > Purchasing policies > Requisition purpose rule [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43897,
+    "title": "Accounts payable > Setup > Accounts payable workflows > Proposed vendor changes workflow [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43898,
+    "title": "Procurement and sourcing > Setup > Summary update parameters [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43900,
+    "title": "Procurement and Sourcing > Setup > Acme HuB> Procurement types [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "090. Approved"
+  },
+  {
+    "id": 50850,
+    "title": "[FDD-OTC-006] Sales and marketing > Setup > Acme asia > Expiration rule group [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 50852,
+    "title": "[FDD-OTC-006] Sales and marketing > Setup > Acme asia > Expiration rule group [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 52990,
+    "title": "[RDD-OTC-001] Organization administration->Organizations->Legal entities->Business registration/Tax registration [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54221,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales region [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54222,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Country(Geo-L1) [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54225,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Country(Geo-L1) [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54226,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales segment(Geo-L2) [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54227,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sub-geography(Geo-L3) [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54228,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Region(Geo-L4) [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54229,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Area(Geo-L5) [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54230,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Sales office(Geography) [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54232,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L1 [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54236,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Mapping from channel to commercial hierarchy 3 [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54237,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Mapping from channel to commercial hierarchy 3 [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54239,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L2 [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54240,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L2 [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54242,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L3 [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54244,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel L4 [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54297,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > Channel [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54298,
+    "title": "[FDD-OTC-002] Sales and marketing > Setup > Acme asia > CPG name [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54302,
+    "title": "[RDD-OTC-001] Organization administration->Organizations->Legal entities->Business registration/Tax registration [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 54630,
+    "title": "Sales and marketing->Setup->Customers->Customer classification groups [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "090. Approved"
+  },
+  {
+    "id": 43889,
+    "title": "Human resources > Positions > All positions [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "100. Closed"
+  },
+  {
+    "id": 40351,
+    "title": "Organization administration > Setup > Office integration > Document templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 40564,
+    "title": "Inventory management->Setup->Posting->Transaction combinations [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "100. Closed"
+  },
+  {
+    "id": 36800,
+    "title": "Inventory management->Setup->Posting->Transaction combinations [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "100. Closed"
+  },
+  {
+    "id": 47859,
+    "title": "Empty: Assing consignment WH to each customer",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42220,
+    "title": "Organization Administration > Electronic reporting > Rebuild table references",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42221,
+    "title": "Organization Administration > Global address book > Registration types > Registration categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42223,
+    "title": "Organization Administration > Global address book > Relationship types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42225,
+    "title": "Organization Administration > Resources > Resource groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42226,
+    "title": "Organization Administration > Resources > Resources",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42227,
+    "title": "Organization Administration > Electronic reporting > Restore broken templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42232,
+    "title": "Organization Administration > Organizations > Teams",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42235,
+    "title": "Organization Administration > Global address book > Translations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42240,
+    "title": "Organization Administration > Workflow > Work item queue assignment rules",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42241,
+    "title": "Organization Administration > Workflow > Work item queue groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42242,
+    "title": "Organization Administration > Workflow > Work item queues",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42243,
+    "title": "Organization Administration > Workflow > Workflow parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 36942,
+    "title": "Organization administration > Setup > Financial reasons",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42206,
+    "title": "Organization administration > Number sequences > Number sequences",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42207,
+    "title": "Organization administration > Organization > Operating units",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42209,
+    "title": "Organization administration > Organization > Organization hierarchies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42210,
+    "title": "Organization Administration > Organizations > Organization hierarchy purposes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42213,
+    "title": "Organization Administration > Setup > Calendars > Period templates",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42149,
+    "title": "Organization Administration > Global address book > Address and contact information purpose",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42150,
+    "title": "Organization Administration > Global address book > Address books",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42151,
+    "title": "Organization administration > Global address book > Address > Address setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42154,
+    "title": "Organization Administration > Setup > Categories > Categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42157,
+    "title": "Organization Administration > Electronic reporting > Configuration debug logs",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42158,
+    "title": "Organization Administration > Electronic reporting > Configuration provider table",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42159,
+    "title": "Organization Administration > Electronic reporting > Configurations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42166,
+    "title": "Organization Administration > Document management > Document content types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42167,
+    "title": "Organization Administration > Document management > Document management parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42168,
+    "title": "Organization Administration > Document management > Document types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42170,
+    "title": "Organization Administration > Electronic reporting > Electronic reporting archived jobs",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42171,
+    "title": "Organization Administration > Electronic reporting > Electronic reporting destination",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42172,
+    "title": "Organization Administration > Electronic reporting > Electronic reporting jobs",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42173,
+    "title": "Organization Administration > Electronic reporting > Electronic reporting source",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42174,
+    "title": "Organization Administration > Setup > Electronic signature > Electronic signature parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42175,
+    "title": "Organization Administration > Setup > Electronic signature > Electronic signature reason codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42176,
+    "title": "Organization Administration > Setup > Electronic signature > Electronic signature requirements",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42177,
+    "title": "Organization Administration > Setup > Office Integration > Excel workbook designer",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42179,
+    "title": "Organization Administration > Electronic reporting > File states for the sources",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42186,
+    "title": "Organization administration > Global address book > Global address book parameters",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42188,
+    "title": "Organization Administration > Global address book > Addresses > Import ZIP/postal codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42190,
+    "title": "Organization Administration > Organizations > Internal organizations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42191,
+    "title": "Organization Administration > Global address book > Registration types > Issuing agencies",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42194,
+    "title": "Organization Administration > Electronic reporting > Legal entity filter for formats",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42203,
+    "title": "Organization administration > Global address book > Name sequences",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 42204,
+    "title": "Organization Administration > Global address book > Name title and suffix",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "100. Closed"
+  },
+  {
+    "id": 43150,
+    "title": "FDD-ACT-002-Accounts closing  - Email SMTP configuration",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "100. Closed"
+  },
+  {
+    "id": 36013,
+    "title": "Accounts receivable/Account payable/Cash and bank > Payments Netting > Netting agreement",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "100. Closed"
+  },
+  {
+    "id": 36015,
+    "title": "Set Up Collection Letter Sequence",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "100. Closed"
+  },
+  {
+    "id": 36918,
+    "title": "Accounts receivable > Setup > Billing codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36955,
+    "title": "Accounts payable > Payment setup > Terms of payment",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36959,
+    "title": "Accounts payable > Setup > Payment setup > Process automations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 41992,
+    "title": "Cash and bank management > Setup > Bank transaction types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 41994,
+    "title": "Cash and bank management > Setup > Bank documents posting profile",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42031,
+    "title": "Cash and bank management > Setup > Advanced bank reconciliation setup > Reconciliation matching rules",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42032,
+    "title": "Cash and bank management > Setup > Advanced bank reconciliation setup > Reconciliation matching rule sets",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42039,
+    "title": "Cash and bank management > Setup > Bank statement import method for general journal",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42042,
+    "title": "Cash and bank management > Setup > Cash and bank management workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42043,
+    "title": "Cash and bank management > Setup > Advanced bank reconciliation setup > Bank statement format",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42044,
+    "title": "Cash and bank management > Setup > Advanced bank reconciliation setup > Transaction code mapping",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42045,
+    "title": "Cash and bank management > Setup > Cash and bank management workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42046,
+    "title": "Cash and bank management > Setup > Cash and bank management workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42047,
+    "title": "Cash and bank management > Setup > Cash and bank management workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42038,
+    "title": "Cash and bank management > Setup > Positive pay formats",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42035,
+    "title": "Cash and bank management > Setup > Bank transaction groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42074,
+    "title": "Cost management > Ledger integration policies setup > Dimension link",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42075,
+    "title": "Cost management > Ledger integration policies setup > Linked dimension update",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 44657,
+    "title": "General Ledger > Period close > Application module user mapping",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42775,
+    "title": "Accounts payable > Setup > Accounts payable workflows > Vendor disbursement journal workflow [Vendor payment journal]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42215,
+    "title": "Tax > Setup > Electronic messages > Populate records actions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42216,
+    "title": "Tax > Setup > Foreign trade > Port",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42229,
+    "title": "Organization administration > Setup > Categories > Shared categories",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42230,
+    "title": "Tax > Setup > Foreign trade > Statistics procedure",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42231,
+    "title": "Tax > Setup > Tax configuration > Tax setup",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42233,
+    "title": "Tax > Setup > Foreign trade > Transaction codes",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42236,
+    "title": "Tax > Setup > Foreign trade > Transport method",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42238,
+    "title": "Tax > Setup > Electronic messages > Web applications",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42239,
+    "title": "Tax > Setup > Electronic messages > Web service settings",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42148,
+    "title": "Tax > Setup > Electronic messages > Additional fields",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42169,
+    "title": "Tax > Setup > Electronic messages > Electronic message processing",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42178,
+    "title": "Tax > Setup > Electronic messages > Executable class settings",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42189,
+    "title": "General ledger > Posting setup > Intercompany accounting> Intercompany relationship",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42196,
+    "title": "Tax > Setup > Electronic messages > Message item statuses",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42197,
+    "title": "Tax > Setup > Electronic messages > Message item types",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42198,
+    "title": "Tax > Setup > Electronic messages > Message processing actions",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42199,
+    "title": "Tax > Setup > Electronic messages > Message statuses",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 42099,
+    "title": "Project Management and Accounting > Setup > Posting > Default Offset Accounts for Expenses",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 50113,
+    "title": "General ledger/Acme/ Global setting/ OCM mapping table",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36475,
+    "title": "System Administration -> Periodic -> Acme -> Email Group",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36476,
+    "title": "System administration -> Setup -> Email ->System email template",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36454,
+    "title": "Inventory management > Setup > Quality control > Acme Asia> Material default batch disposal code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36449,
+    "title": "Inventory management -> Setup -> Quality control -> Workers responsible for quality",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 31541,
+    "title": "Procurement and sourcing->Setup->Charges code",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 43879,
+    "title": "Organization administration > Setup > Signing limits > Signing limit parameters (Signing limit rules details) [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 43880,
+    "title": "Organization administration > Setup > Signing limits > Signing limit parameters (Signing limit policy parameters) [MY30,MY60,SG60]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\STP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36884,
+    "title": "Sales and marketing->Setup->Distribution->Modes of delivery",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36461,
+    "title": "Inventory management -> Setup -> Quality management -> Quality charges",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 40559,
+    "title": "Inventory management->Setup->Inventory->Counting reason code groups [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36890,
+    "title": "Sales and marketing->Setup->Statistics->Line of business",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 36891,
+    "title": "Sales and marketing->Setup->Statistics->Statistics group",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\Process\\O2C",
+    "state": "110. On-hold"
+  },
+  {
+    "id": 40557,
+    "title": "Inventory management->Setup->Inventory->Blocking causes [SG]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "110. On-hold"
+  }
+]

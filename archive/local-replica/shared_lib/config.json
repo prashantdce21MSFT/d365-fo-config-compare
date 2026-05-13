@@ -1,0 +1,43 @@
+{
+    "environments": {
+        "ENV1": {
+            "name": "Env1 UAT",
+            "mcp_url": "https://example-uat.sandbox.operations.dynamics.com/mcp",
+            "resource_url": "https://example-uat.sandbox.operations.dynamics.com",
+            "tenant_id": "00000000-0000-0000-0000-000000000000",
+            "client_id": "00000000-0000-0000-0000-000000000001",
+            "client_secret": "REDACTED-SEE-MASTER_GUIDE-FOR-AUTH"
+        },
+        "ENV2": {
+            "name": "Env2 Golden",
+            "mcp_url": "https://example-goldconfig.sandbox.operations.eu.dynamics.com/mcp",
+            "resource_url": "https://example-goldconfig.sandbox.operations.eu.dynamics.com",
+            "tenant_id": "00000000-0000-0000-0000-000000000000",
+            "client_id": "00000000-0000-0000-0000-000000000002",
+            "client_secret": "REDACTED-SEE-MASTER_GUIDE-FOR-AUTH"
+        },
+        "ENV3": {
+            "name": "Env3 UAT",
+            "mcp_url": "https://example-uat-eu.sandbox.operations.eu.dynamics.com/mcp",
+            "resource_url": "https://example-uat-eu.sandbox.operations.eu.dynamics.com",
+            "tenant_id": "00000000-0000-0000-0000-000000000000",
+            "client_id": "00000000-0000-0000-0000-000000000002",
+            "client_secret": "REDACTED-SEE-MASTER_GUIDE-FOR-AUTH"
+        },
+        "ENV4": {
+            "name": "Env4 Config",
+            "mcp_url": "https://example-config.sandbox.operations.dynamics.com/mcp",
+            "resource_url": "https://example-config.sandbox.operations.dynamics.com",
+            "tenant_id": "00000000-0000-0000-0000-000000000000",
+            "client_id": "00000000-0000-0000-0000-000000000001",
+            "client_secret": "REDACTED-SEE-MASTER_GUIDE-FOR-AUTH"
+        }
+    },
+    "settings": {
+        "max_records_per_entity": 50000,
+        "request_timeout_seconds": 120,
+        "retry_count": 3,
+        "retry_delay_seconds": 5,
+        "output_directory": "output"
+    }
+}

@@ -1,0 +1,212 @@
+{
+  "name": "d365-form-extractor",
+  "displayName": "D365 FO Config Compare (Beta)",
+  "description": "[BETA] Extract and compare Microsoft Dynamics 365 Finance & Operations form configurations across environments using D365 ERP MCP or Playwright (Chrome DevTools Protocol). Authenticates via Azure CLI \u2014 no app registration required.",
+  "version": "0.8.2",
+  "preview": true,
+  "publisher": "prashant-verma-aibs",
+  "author": {
+    "name": "Prashant Verma AIBS"
+  },
+  "license": "MIT",
+  "icon": "media/icon-beta.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantdce21MSFT/d365-fo-config-compare"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other",
+    "Data Science",
+    "Testing"
+  ],
+  "keywords": [
+    "d365",
+    "dynamics 365",
+    "f&o",
+    "finance and operations",
+    "configuration drift",
+    "mcp",
+    "playwright"
+  ],
+  "activationEvents": ["onStartupFinished"],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "d365FormExtractor.extract",
+        "title": "D365 FO Config Compare: Extract Form",
+        "category": "D365"
+      },
+      {
+        "command": "d365FormExtractor.onboard",
+        "title": "D365 FO Config Compare: Run Onboarding",
+        "category": "D365"
+      },
+      {
+        "command": "d365FormExtractor.startChromeCdp",
+        "title": "D365 FO Config Compare: Start Chrome with Remote Debugging",
+        "category": "D365"
+      },
+      {
+        "command": "d365FormExtractor.clearSettings",
+        "title": "D365 FO Config Compare: Clear Saved Settings",
+        "category": "D365"
+      },
+      {
+        "command": "d365FormExtractor.configureFormPaths",
+        "title": "D365 FO Config Compare: Configure Form Paths",
+        "category": "D365"
+      },
+      {
+        "command": "d365FormExtractor.welcome",
+        "title": "D365 FO Config Compare: Getting Started",
+        "category": "D365"
+      },
+      {
+        "command": "d365FormExtractor.scaffoldWorkspace",
+        "title": "D365 FO Config Compare: Create / Open Workspace Folder",
+        "category": "D365"
+      }
+    ],
+    "configuration": {
+      "title": "D365 FO Config Compare",
+      "properties": {
+        "d365FormExtractor.pythonPath": {
+          "type": "string",
+          "default": "python",
+          "description": "Path to the Python executable (3.10+). Leave as 'python' to use PATH."
+        },
+        "d365FormExtractor.chromePath": {
+          "type": "string",
+          "default": "",
+          "description": "Path to chrome.exe. Leave empty for auto-detect."
+        },
+        "d365FormExtractor.environments": {
+          "type": "array",
+          "default": [],
+          "description": "Configured D365 environments (label + base URL).",
+          "items": {
+            "type": "object",
+            "properties": {
+              "label": {
+                "type": "string"
+              },
+              "baseUrl": {
+                "type": "string"
+              },
+              "tenantId": {
+                "type": "string",
+                "description": "Azure AD tenant ID (GUID) or domain for this environment. Used with 'az login --tenant'."
+              },
+              "mcpUrl": {
+                "type": "string",
+                "description": "Full MCP endpoint URL (e.g. https://org541b3d42.operations.dynamics.com/mcp). Leave empty to use <baseUrl>/mcp."
+              },
+              "mcpAvailable": {
+                "type": "boolean",
+                "description": "Set by onboarding: whether the /mcp endpoint is reachable and accepts the AAD token."
+              }
+            }
+          }
+        },
+        "d365FormExtractor.formPaths": {
+          "type": "array",
+          "default": [],
+          "description": "Configured form paths with validated menu items.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "path": { "type": "string" },
+              "menuItem": { "type": "string" },
+              "validated": { "type": "boolean" },
+              "error": { "type": "string" }
+            }
+          }
+        },
+        "d365FormExtractor.outputFolder": {
+          "type": "string",
+          "default": "",
+          "description": "Folder to write extraction Excel files. Defaults to <workspace>/d365-extracts."
+        },
+        "d365FormExtractor.mcpAuth": {
+          "type": "object",
+          "description": "Optional Azure AD app registration for MCP authentication (client credentials flow). The client secret is stored in VS Code SecretStorage, not here.",
+          "properties": {
+            "tenantId": { "type": "string", "description": "AAD tenant ID (GUID)." },
+            "clientId": { "type": "string", "description": "Application (client) ID (GUID)." }
+          }
+        },
+        "d365FormExtractor.defaultBackend": {
+          "type": "string",
+          "enum": [
+            "mcp",
+            "playwright",
+            "ask"
+          ],
+          "default": "ask",
+          "description": "Extraction backend: D365 ERP MCP, Playwright (CDP), or ask each run."
+        }
+      }
+    },
+    "walkthroughs": [
+      {
+        "id": "d365FormExtractor.gettingStarted",
+        "title": "Get Started with D365 FO Config Compare",
+        "description": "Set up your workspace and extract D365 F&O form configurations for cross-environment comparison.",
+        "steps": [
+          {
+            "id": "folder",
+            "title": "Create / open a workspace folder",
+            "description": "Use C:\\\\D365-Form-Extractor (or pick your own). Output Excels and validated form paths are saved here.\n[Open workspace folder](command:d365FormExtractor.scaffoldWorkspace)",
+            "media": { "markdown": "walkthrough/01-folder.md" },
+            "completionEvents": ["onCommand:d365FormExtractor.scaffoldWorkspace"]
+          },
+          {
+            "id": "onboard",
+            "title": "Run onboarding (Python deps + environments)",
+            "description": "Installs Python packages, checks Azure CLI, registers your D365 environments.\n[Run onboarding](command:d365FormExtractor.onboard)",
+            "media": { "markdown": "walkthrough/02-onboard.md" },
+            "completionEvents": ["onCommand:d365FormExtractor.onboard"]
+          },
+          {
+            "id": "chrome",
+            "title": "Launch Chrome with remote debugging",
+            "description": "Starts Chrome on :9222. Sign in to D365 there.\n[Start Chrome](command:d365FormExtractor.startChromeCdp)",
+            "media": { "markdown": "walkthrough/03-chrome.md" },
+            "completionEvents": ["onCommand:d365FormExtractor.startChromeCdp"]
+          },
+          {
+            "id": "paths",
+            "title": "Configure form paths",
+            "description": "Paste UI navigation paths; the extension discovers the menu item via Playwright.\n[Configure form paths](command:d365FormExtractor.configureFormPaths)",
+            "media": { "markdown": "walkthrough/04-paths.md" },
+            "completionEvents": ["onCommand:d365FormExtractor.configureFormPaths"]
+          },
+          {
+            "id": "extract",
+            "title": "Extract a form",
+            "description": "Pick a form and the environments to compare.\n[Extract Form](command:d365FormExtractor.extract)",
+            "media": { "markdown": "walkthrough/05-extract.md" },
+            "completionEvents": ["onCommand:d365FormExtractor.extract"]
+          }
+        ]
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run build",
+    "build": "esbuild ./src/extension.ts --bundle --outfile=dist/extension.js --external:vscode --format=cjs --platform=node --target=node18",
+    "watch": "npm run build -- --watch --sourcemap",
+    "package": "vsce package --no-dependencies"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^2.32.0",
+    "esbuild": "^0.20.0",
+    "typescript": "^5.3.0"
+  }
+}

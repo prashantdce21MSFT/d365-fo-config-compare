@@ -1,0 +1,330 @@
+[
+  {
+    "id": 78873,
+    "title": "Pricing management> During-sales pricing> Charge code> Auto charge (MY)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New",
+    "category": "ODATA",
+    "search_terms": [
+      "Auto charge (MY)"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"AutoTaxHeaders\",\r\n      \"Label\": \"Auto tax header\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"AutoNumberingTables\",\r\n      \"Label\": \"Invoice numbering setup\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CustomerChargeGroup\",\r\n      \"Label\": \"Customer charge groups\",\r\n      \"Description\": \"CustChargeCustomerGroupEntity enables importing and exporting of customer charge groups.\"\r\n    },\r\n    {\r\n      \"Name\": \"AutoNumberingGroups\",\r",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 78977,
+    "title": "Rebate incentive: Billing code, Billing classification and journal name for free text invoice/Reversal journal (SG)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New",
+    "category": "ODATA",
+    "search_terms": [
+      "Billing code, Billing classification and journal name for free text invoice/Reversal journal (SG)"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"BillingClassificationCodes\",\r\n      \"Label\": \"Billing classification with billing code\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"BillingCodeAccountingDistributions\",\r\n      \"Label\": \"Billing code with accounting distribution\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"BillingClassifications\",\r\n      \"Label\": \"Billing Classification\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"LTMDocumentClassificationJournalNames",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 78985,
+    "title": "Bottle return incentive: Billing code, Billing classification and journal name for free text invoice/Reversal journal (MY60/SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New",
+    "category": "ODATA",
+    "search_terms": [
+      "Billing code, Billing classification and journal name for free text invoice/Reversal journal (MY60/SG60)"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"BillingClassificationCodes\",\r\n      \"Label\": \"Billing classification with billing code\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"BillingCodeAccountingDistributions\",\r\n      \"Label\": \"Billing code with accounting distribution\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"BillingClassifications\",\r\n      \"Label\": \"Billing Classification\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CostAccountingDataConnectorStatistica",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 81299,
+    "title": "General Ledger > Ledger setup > General ledger parameters (Ledger parameters) > Ledger settlement accounts",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "010. New",
+    "category": "ODATA",
+    "search_terms": [
+      "Ledger settlement accounts"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"LedgerTransSettlementAccounts\",\r\n      \"Label\": \"Ledger settlement accounts\",\r\n      \"Description\": \"The LedgerTransSettlementAccountEntity data entity contains the accounts which are considered for the Ledger settlement process.\"\r\n    },\r\n    {\r\n      \"Name\": \"LedgerTransSettlementEnhanced\",\r\n      \"Label\": \"Ledger settlement enhanced\",\r\n      \"Description\": \"The LedgerTransSettlementEnhancedEntity data entity contains read-only ledger transactions from ",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36293,
+    "title": "Warehouse management > Setup > Warehouse > Warehouses [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\WMS",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Warehouses"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"Warehouses\",\r\n      \"Label\": \"Warehouses\",\r\n      \"Description\": \"The InventWarehouseEntity data entity contains information about warehouses.\"\r\n    },\r\n    {\r\n      \"Name\": \"WarehouseAisles\",\r\n      \"Label\": \"Inventory aisle\",\r\n      \"Description\": \"The WMSWarehouseAisleEntity data entity contains information about the aisles in warehouses.\"\r\n    },\r\n    {\r\n      \"Name\": \"WarehouseZones\",\r\n      \"Label\": \"Warehouse zones\",\r\n      \"Description\": \"The WHSW",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36252,
+    "title": "Inventory management -> Setup -> Quality control -> Test Groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Test Groups"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"CostGroups\",\r\n      \"Label\": \"Cost groups\",\r\n      \"Description\": \"The CostGroupEntity data entity contains cost groups for a BOM. They are used to specify the desired profit for calculation ordering for each type of calculation: inventory, BOM calculation, and production.\"\r\n    },\r\n    {\r\n      \"Name\": \"TaxGroups\",\r\n      \"Label\": \"Sales tax groups\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"TaxItemGroups\",\r\n      \"Label\": \"Sales tax item g",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36253,
+    "title": "Inventory management -> Setup -> Quality control -> Quality associations",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Quality associations"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"QualitySampleAssociations\",\r\n      \"Label\": \"Quality sample associations\",\r\n      \"Description\": \"The QMSSampleAssociationEntity data entity contains information about quality sample associations.\"\r\n    },\r\n    {\r\n      \"Name\": \"QualityTestLocations\",\r\n      \"Label\": \"Quality test locations\",\r\n      \"Description\": \"The QMSQualityTestLocationEntity data entity contains information about quality test locations.\"\r\n    },\r\n    {\r\n      \"Name\": \"QualitySampleA",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36254,
+    "title": "Inventory management -> Setup -> Quality control -> Quality groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Quality groups"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"QualityTestGroups\",\r\n      \"Label\": \"Test groups\",\r\n      \"Description\": \"Provides import and export capabilities for quality control test groups\"\r\n    },\r\n    {\r\n      \"Name\": \"QualitySamples\",\r\n      \"Label\": \"Quality samples\",\r\n      \"Description\": \"The QMSSampleEntity data entity contains information about quality samples.\"\r\n    },\r\n    {\r\n      \"Name\": \"QualitySampleTypes\",\r\n      \"Label\": \"Quality sample types\",\r\n      \"Description\": \"The QMSSampleT",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36255,
+    "title": "Inventory management -> Setup -> Quality control -> Item Quality Groups",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Item Quality Groups"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"SecurityGroups\",\r\n      \"Label\": \"Microsoft Entra ID Security groups\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"QualityTestGroups\",\r\n      \"Label\": \"Test groups\",\r\n      \"Description\": \"Provides import and export capabilities for quality control test groups\"\r\n    },\r\n    {\r\n      \"Name\": \"DocumentFacilityGroups\",\r\n      \"Label\": \"Bank facility groups\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"ItemPriceToleranceGroups\",\r\n     ",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36241,
+    "title": "Inventory Management -> Setup -> Quality control -> Test (Quality)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA\\QCP",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Test",
+      "Quality"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"Tests\",\r\n      \"Label\": \"TestEntityForConfigKey\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"TestTypes\",\r\n      \"Label\": \"Test\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"TaxesMatrices\",\r\n      \"Label\": \"Taxes matrix\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"Agents\",\r\n      \"Label\": \"Tax agent\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"TeamsV2\",\r\n      \"Label\": \"Teams V2\",\r\n      \"Description\": \"\"\r",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36448,
+    "title": "Product information management > Bills of materials and formulas > Acme > Auxiliary material consumption ratio",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_PRD_QA",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Auxiliary material consumption ratio"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"HazardousMaterialIdentifications\",\r\n      \"Label\": \"Hazardous material identification\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"BillOfMaterialsVersionsODataV2\",\r\n      \"Label\": \"Bill of materials versions V2\",\r\n      \"Description\": \"The BOMBillOfMaterialsVersionODataEntity data entity contains all the BOM versions. This data entity connects to the BOMBillOfMaterialsHeaderEntity data entity in order to specify the BOM to which the version r",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 79171,
+    "title": "FDD-CRC-001: Customer wise Credit limit risk category (Depend on teh Customer master)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Customer wise Credit limit risk category",
+      "Depend on teh Customer master"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"CustomerCreditGroups\",\r\n      \"Label\": \"Customer credit groups\",\r\n      \"Description\": \"The CredManCreditLimitEntity data entity contains information about customer credit groups\"\r\n    },\r\n    {\r\n      \"Name\": \"CustomerPaymentMethodSpecifications\",\r\n      \"Label\": \"Customer payment method specification\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CustomerCreditGroupLines\",\r\n      \"Label\": \"Customer credit group lines\",\r\n      \"Description\": \"",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 68299,
+    "title": "Common for all the Integration: Source system",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Source system"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"SourceSystems\",\r\n      \"Label\": \"Source system\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"SourceTypes\",\r\n      \"Label\": \"Fixed asset source types\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"SourceSystemTables\",\r\n      \"Label\": \"Source systems\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CourseTypes\",\r\n      \"Label\": \"Course types\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"SourceSystemProductMessages",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 68302,
+    "title": "Consolidated master for Support Type (This is a separate master, these values will be selected in the respective journal set up for each interface)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Consolidated master for Support Type",
+      "This is a separate master, these values will be selected in the respective journal set up for each interface"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"ConsolidateAccountGroups\",\r\n      \"Label\": \"Consolidation groups and accounts\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"ConsolidateAccounts\",\r\n      \"Label\": \"Consolidation main accounts\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CollateralSecurityTypes\",\r\n      \"Label\": \"Collateral security type entity\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"ConsumableAttributeTables\",\r\n      \"Label\": \"Consumable attribute",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 71192,
+    "title": "Discount configuraiton for SG60",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Discount configuraiton for SG60"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"DiscountVendorClaimGroups\",\r\n      \"Label\": \"Discount claim group\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"DiscountClaimDistributionDiscountLines\",\r\n      \"Label\": \"Discount claim distribution (discount line)\",\r\n      \"Description\": \"This data entity is used to export or import discount claim distribution records related to discount lines.\"\r\n    },\r\n    {\r\n      \"Name\": \"DiscountVendorClaimPostingProfiles\",\r\n      \"Label\": \"Discount vendo",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 78609,
+    "title": "IDD-FIN-015: PAF Claim Journal Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "PAF Claim Journal Set up"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"ClaimJourSetups\",\r\n      \"Label\": \"PAF claim journal setup\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"RebateClaimJourSetups\",\r\n      \"Label\": \"Rebate claim journal setup\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"AccrualJourSetups\",\r\n      \"Label\": \"PAF accrual journal setup entity\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CBADistributorJournalSetups\",\r\n      \"Label\": \"Distributor incentive set up\",\r\n      \"De",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 78610,
+    "title": "IDD-FIN-016-Outlet Incentive Journal Set up",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "IDD-FIN-016-Outlet Incentive Journal Set up"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"OutletIncentiveJourSetups\",\r\n      \"Label\": \"Outlet incentive journal setup\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"InventoryAdjustmentJournalHeaders\",\r\n      \"Label\": \"Inventory adjustment headers\",\r\n      \"Description\": \"The InventInventoryAdjustmentJournalHeaderEntity data entity contains information about inventory adjustment journal headers\"\r\n    },\r\n    {\r\n      \"Name\": \"DueAnnouncementJournals\",\r\n      \"Label\": \"Cash due announcem",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 56911,
+    "title": "Transportation management Setup Engines Zone master[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "Transportation management Setup Engines Zone master"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"TransportationAppointmentHistories\",\r\n      \"Label\": \"Transportation appointment histories\",\r\n      \"Description\": \"The TMSTransportationAppointmentHistoryEntity contains information about transportation appointment histories\"\r\n    },\r\n    {\r\n      \"Name\": \"TransportationAppointmentDriverLogs\",\r\n      \"Label\": \"Transportation appointment driver logs\",\r\n      \"Description\": \"The TMSTransportationAppointmentDriverLogEntity contains information about transpo",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 56935,
+    "title": "DM4 -Transit time table - CBASupplierTransitTimeTableEntity",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\TEC",
+    "state": "030. Data collection",
+    "category": "ODATA",
+    "search_terms": [
+      "DM4 -Transit time table - CBASupplierTransitTimeTableEntity"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"SupplierTransitTimeTables\",\r\n      \"Label\": \"Transit time table\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"DimensionAttributeTranslationCDREntities\",\r\n      \"Label\": \"Dimension attribute translation\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"RetailTransactionAttributeTransBIEntities\",\r\n      \"Label\": \"Sales order attributes\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"RetailTransactionSafeTenderTransBIEntities\",\r",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 44495,
+    "title": "[FDD-TMS-002] Transportation management > Setup > Rating > Acme asia > Freight rate master [MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "040. Initial review",
+    "category": "ODATA",
+    "search_terms": [
+      "Freight rate master"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"FreightRateMasters\",\r\n      \"Label\": \"Freight rate master\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"FreightInvoiceHeadersV2\",\r\n      \"Label\": \"Freight invoice headers V2\",\r\n      \"Description\": \"The TMSTransportationFreightInvoiceV2Entity data entity contains information about freight invoice headers.\"\r\n    },\r\n    {\r\n      \"Name\": \"ForeignTradeParameters\",\r\n      \"Label\": \"Foreign trade parameters\",\r\n      \"Description\": \"\"\r\n    },\r\n    {",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 47862,
+    "title": "Empty: Empty group and line",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\EMP",
+    "state": "040. Initial review",
+    "category": "ODATA",
+    "search_terms": [
+      "Empty group and line"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"EmptiesGroups\",\r\n      \"Label\": \"Empties group\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"ExpenseJournalLines\",\r\n      \"Label\": \"Project expense journal lines\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"EmployerTaxRegions\",\r\n      \"Label\": \"Employer tax region\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"EmplPostings\",\r\n      \"Label\": \"Employee posting profile lines\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n     ",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36814,
+    "title": "Transportation management->Setup->Load building-> Load templates[MY]",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\ISC_LOG\\TMS",
+    "state": "040. Initial review",
+    "category": "ODATA",
+    "search_terms": [
+      "Load templates"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"LoadTemplates\",\r\n      \"Label\": \"Load templates\",\r\n      \"Description\": \"The WHSLoadTemplateEntity data entity contains information about load templates\"\r\n    },\r\n    {\r\n      \"Name\": \"GoalTemplates\",\r\n      \"Label\": \"Goal template\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"JobTemplates\",\r\n      \"Label\": \"Job templates\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"LoanItems\",\r\n      \"Label\": \"Loan items\",\r\n      \"Description\": \"",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 36102,
+    "title": "Credit and collections > Setup > Credit management workflows",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "040. Initial review",
+    "category": "ODATA",
+    "search_terms": [
+      "Credit management workflows"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"CreditManagementGroups\",\r\n      \"Label\": \"Credit management groups\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CreditManagementRiskGroups\",\r\n      \"Label\": \"Risk classification\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"CreditManagementParameters\",\r\n      \"Label\": \"Credit management parameters\",\r\n      \"Description\": \"The CredManParametersEntity data entity contains the credit management parameters\"\r\n    },\r\n    {\r\n      \"Name",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 78726,
+    "title": "FDD-TAX-001: Warehouse Related Set up for Excise (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "050. Waiting for feedback",
+    "category": "ODATA",
+    "search_terms": [
+      "Warehouse Related Set up for Excise (SG60)"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"WarehouseNumberSequenceExtensions\",\r\n      \"Label\": \"Number sequence extensions\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"WarehouseNumberSequenceExtReferences\",\r\n      \"Label\": \"Number sequence extension references\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"WarehouseIntegrationSourceSystems\",\r\n      \"Label\": \"Warehouse integration source systems\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"WarehouseIntegrationSo",
+    "form_match": null,
+    "notes": ""
+  },
+  {
+    "id": 78727,
+    "title": "FDD-TAX-001: Auto Batch Job for any transfer order for ED moving average calculation (SG60)",
+    "area": "1875-SmartCore-ASIA\\Finance and operation\\FIN",
+    "state": "050. Waiting for feedback",
+    "category": "ODATA",
+    "search_terms": [
+      "Auto Batch Job for any transfer order for ED moving average calculation (SG60)"
+    ],
+    "odata_match": "{\r\n  \"Matches\": [\r\n    {\r\n      \"Name\": \"AssetMaintenanceWorkOrderStandardDescriptions\",\r\n      \"Label\": \"Asset management work order descriptions\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"RetailInformationSubcodeTranslations\",\r\n      \"Label\": \"Info subcode translation\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\": \"AssetMaintenanceWorkOrderPoolRelations\",\r\n      \"Label\": \"Asset management work order pool relations\",\r\n      \"Description\": \"\"\r\n    },\r\n    {\r\n      \"Name\"",
+    "form_match": null,
+    "notes": ""
+  }
+]

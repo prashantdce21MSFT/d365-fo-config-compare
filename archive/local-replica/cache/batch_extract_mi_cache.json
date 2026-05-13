@@ -1,0 +1,1337 @@
+{
+  "Procurement and sourcing->Setup->Purchase orders->Return action": {
+    "mi_name": "purchReturnActionDefaults",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Set up interest codes (Not applicable for SG60)": {
+    "mi_name": "Interest",
+    "mi_type": "Display",
+    "hint": "Not applicable for SG60"
+  },
+  "Production control > Operations > All routes": {
+    "mi_name": "RouteTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Product information management > Bills of materials and formulas > Formulas": {
+    "mi_name": "PmfFormulaTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Acme > Item and resource mapping": {
+    "mi_name": "CBItemResourceMappingTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory Management -> Setup -> Quality Control -> Test Instrument": {
+    "mi_name": "CBARPTSummaryOfFGInventory",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory Management -> Setup -> Quality control -> Test (Quality)": {
+    "mi_name": "InventQualityOrderTable",
+    "mi_type": "Display",
+    "hint": "Quality"
+  },
+  "Inventory management -> Setup -> Quality control -> Test Groups": {
+    "mi_name": "InventTestGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Quality associations": {
+    "mi_name": "InventTestAssociationTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Quality groups": {
+    "mi_name": "InventTestQualityGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Item Quality Groups": {
+    "mi_name": "InventTestItemQualityGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Acme > Item variance rate setup": {
+    "mi_name": "CBProdItemVarianceRateSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management > Setup > Warehouse > Warehouses [MY]": {
+    "mi_name": "InventLocations",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Product information management > Bills of materials and formulas > Acme > Auxiliary material consumption ratio": {
+    "mi_name": "CBAFItemRequirement",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory and warehouse management parameters -> Quality Fast Tab": {
+    "mi_name": "WHSValidator",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Functional locations > Functional location types": {
+    "mi_name": "EntAssetFunctionalLocationType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Functional locations > Lifecycle states": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleState",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Functional locations > Lifecycle models": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleModel",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Assets > Manufacturers and models": {
+    "mi_name": "EntAssetProduct",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Assets > Spare parts item groups": {
+    "mi_name": "EntAssetStandardSparePartsItemGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Assets > Criticality types": {
+    "mi_name": "EntAssetCriticality",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Assets > Lifecycle states": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleState",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Assets > Lifecycle models": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleModel",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Asset types > Asset types": {
+    "mi_name": "EntAssetObjectType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Asset types > Asset type defaults": {
+    "mi_name": "EntAssetObjectTypeDefault",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Asset types > Counters": {
+    "mi_name": "EntAssetCounterType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Asset types > Condition assessment templates": {
+    "mi_name": "EntAssetConditionTemplate",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Fault > Fault symptoms": {
+    "mi_name": "EntAssetFaultSymptom",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Fault > Fault areas": {
+    "mi_name": "EntAssetFaultArea",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Fault > Fault types": {
+    "mi_name": "EntAssetFaultType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Fault > Fault designer": {
+    "mi_name": "EntAssetFaultDesigner",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Fault > Fault causes": {
+    "mi_name": "EntAssetFaultCause",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Fault > Fault remedies": {
+    "mi_name": "EntAssetFaultRemedy",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Preventive maintenance > Acme > Maintenance plans": {
+    "mi_name": "CBEntAssetMaintenancePlan",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Maintenance requests > Maintenance request types": {
+    "mi_name": "EntAssetRequestType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory management workflows [MY]": {
+    "mi_name": "WorkflowConfigurationInvent",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Distribution->Transport days [MY]": {
+    "mi_name": "CustVendTransportPoint2Point",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Distribution->Arrival overview profiles [MY]": {
+    "mi_name": "WMSArrivalOverviewProfile",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Maintenance requests > Lifecycle states": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleState",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Maintenance requests > Lifecycle models": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleModel",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Blocking causes [MY]": {
+    "mi_name": "WMSBlockingCause",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Counting reason codes [MY]": {
+    "mi_name": "InventCountingReasonCode",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Counting reason code groups [MY]": {
+    "mi_name": "InventCountingReasonCodeGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Counting reason code policies [MY]": {
+    "mi_name": "InventCountingReasonCodePolicy",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory breakdown->Inventory aisles [MY]": {
+    "mi_name": "WMSAisle",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory breakdown->Inventory locations [MY]": {
+    "mi_name": "WMSLocation",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Journal names->Inventory [MY]": {
+    "mi_name": "InventJournalName",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Transportation management parameters [MY]": {
+    "mi_name": "TMSParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Transportation status masters[MY]": {
+    "mi_name": "TMSTransportationStatusMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Appointment scheduling->Appointment rules[MY]": {
+    "mi_name": "TMSCalendarType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Appointment scheduling->Appointment change reasons[MY]": {
+    "mi_name": "TMSChangeReason",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Shipping carriers[MY]": {
+    "mi_name": "TMSCarrier",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Carrier group[MY]": {
+    "mi_name": "TMSCarrierGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Transportation methods[MY]": {
+    "mi_name": "TMSMethod",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Transportation templates[MY]": {
+    "mi_name": "TMSTransportationTemplate",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Load building-> Load templates[MY]": {
+    "mi_name": "TMSTransportationTemplate",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Load building->Equipment[MY]": {
+    "mi_name": "TMSEquipment",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse management parameters [MY]": {
+    "mi_name": "WHSParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Location directives [MY]": {
+    "mi_name": "WHSLocDirTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Number sequence extensions [MY]": {
+    "mi_name": "WHSNumberSequenceExt",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Load posting methods [MY]": {
+    "mi_name": "WHSLoadPostMethod",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Worker [MY]": {
+    "mi_name": "WHSWorker",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Waves->Wave templates [MY]": {
+    "mi_name": "WHSWaveTemplateTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Waves->Wave process methods [MY]": {
+    "mi_name": "WHSPostMethod",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Inventory->Adjustment types [MY]": {
+    "mi_name": "WHSAdjustmentType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Inventory->Movement types [MY]": {
+    "mi_name": "WHSMovementType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Inventory->Inventory statuses [MY]": {
+    "mi_name": "WHSInventStatus",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Inventory->Reservation hierarchy [MY]": {
+    "mi_name": "WHSReservationHierarchy",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Inventory->Blocking causes [MY]": {
+    "mi_name": "WMSBlockingCause",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Mobile device->Mobile device menu [MY]": {
+    "mi_name": "WHSRFMenu",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Mobile device->Mobile device menu items [MY]": {
+    "mi_name": "WHSRFMenuItem",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Mobile device->Disposition codes [MY]": {
+    "mi_name": "WHSMobileDeviceWorkspace",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Mobile device->Warehouse app field names [MY]": {
+    "mi_name": "WHSMobileAppField",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Mobile device->Warehouse app field priority [MY]": {
+    "mi_name": "WHSMobileAppFieldPriority",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Mobile device->Mobile device steps [MY]": {
+    "mi_name": "WHSMobileAppFlowStepListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Work->Work templates [MY]": {
+    "mi_name": "WHSWorkTemplateTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Work->Work exceptions [MY]": {
+    "mi_name": "WHSWorkException",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Work->Work classes [MY]": {
+    "mi_name": "WHSWorkClass",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Work->Work pools [MY]": {
+    "mi_name": "WHSWorkPool",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Location formats [MY]": {
+    "mi_name": "WHSLocationFormat",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Location stocking limits [MY]": {
+    "mi_name": "WHSLocationLimit",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Location profiles [MY]": {
+    "mi_name": "WHSLocationProfile",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Location types [MY]": {
+    "mi_name": "WHSLocationType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Warehouse zone groups [MY]": {
+    "mi_name": "WHSZoneGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Zones [MY]": {
+    "mi_name": "WHSZone",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Warehouse->Unit sequence groups [MY]": {
+    "mi_name": "WHSUOMSeqGroupTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->Release to warehouse->Fulfillment policies [MY]": {
+    "mi_name": "WHSFulfillmentPolicy",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->GS1->GS1 application identifiers [MY]": {
+    "mi_name": "WHSGS1ParsingSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->GS1->GS1 generic setup [MY]": {
+    "mi_name": "InventLocationWHSProcessEnablement",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management->Setup->GS1->GS1 policy [MY]": {
+    "mi_name": "WHSWorkPolicy",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Jobs > Maintenance job type categories": {
+    "mi_name": "EntAssetJobGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Jobs > Maintenance job types": {
+    "mi_name": "EntAssetJobType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Jobs > Maintenance job type variants": {
+    "mi_name": "EntAssetJobVariant",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Jobs > Maintenance job trade": {
+    "mi_name": "EntAssetJobTrade",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "General Ledger > Ledger setup > General ledger parameters (Ledger parameters)": {
+    "mi_name": "LedgerParameters",
+    "mi_type": "Display",
+    "hint": "Ledger parameters"
+  },
+  "Pricing management> Setup> Pricing management parameters (SG)": {
+    "mi_name": "GUPParameters",
+    "mi_type": "Display",
+    "hint": "SG"
+  },
+  "Pricing management> Setup> Price attribute groups> Price attribute groups (SG)": {
+    "mi_name": "GUPPricingAttributeGroup",
+    "mi_type": "Display",
+    "hint": "SG"
+  },
+  "Asset Management > Setup > Maintenance checklists > Maintenance checklist variables": {
+    "mi_name": "EntAssetChecklistVariable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Maintenance checklists > Maintenance checklist templates": {
+    "mi_name": "EntAssetChecklistTemplate",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Work orders > Lifecycle states": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleState",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Work orders > Lifecycle models": {
+    "mi_name": "EntAssetFunctionalLocationLifecycleModel",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Work orders > Project setup": {
+    "mi_name": "EntAssetWorkOrderProjectSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Work orders > Service level": {
+    "mi_name": "EntAssetWorkOrderServiceLevel",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Work orders > Descriptions": {
+    "mi_name": "EntAssetWorkOrderStandardDescription",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Work orders > Scheduled execution": {
+    "mi_name": "EntAssetScheduledExecution",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Work orders > Work order types": {
+    "mi_name": "EntAssetWorkOrderType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Work orders > Maintenance downtime reason codes": {
+    "mi_name": "EntAssetProductionStopType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Workers > Workers": {
+    "mi_name": "EntAssetWorker",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Workers > Maintenance worker groups": {
+    "mi_name": "EntAssetWorkerGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Workers > Responsible maintenance workers": {
+    "mi_name": "EntAssetWorkerResponsible",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Workers > Preferred maintenance workers": {
+    "mi_name": "EntAssetWorkerPreferred",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Asset management parameters": {
+    "mi_name": "EntAssetParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Asset criticalities": {
+    "mi_name": "EntAssetObjectCriticality",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset Management > Setup > Asset service levels": {
+    "mi_name": "EntAssetObjectServiceLevel",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Attribute types": {
+    "mi_name": "EntAssetAttributeType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Organization administration->Global address book->Addresses->Address set[MY] + [SG]": {
+    "mi_name": "GlobalAddressBookListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Pricing management> Setup> Pricing management parameters (MY)": {
+    "mi_name": "GUPParameters",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Pricing management> Setup> Price attribute groups> Price attribute groups (MY)": {
+    "mi_name": "GUPPricingAttributeGroup",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Pricing management> Setup> Trade agreement prices > Trade agreement journal names (MY)": {
+    "mi_name": "GUPPriceDiscAdmName_Sales",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Pricing management> Setup> Price component codes> Price component code groups (MY)": {
+    "mi_name": "GUPPriceComponentCodeGroup",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Pricing management> Setup> Price component codes> Price component codes (MY)": {
+    "mi_name": "GUPPriceComponentCode",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Pricing management> Setup> Price component codes> Price tree (MY)": {
+    "mi_name": "GUPPriceComponentCode",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Sales and marketing> Prices and discounts> Customer price/discount groups (MY)": {
+    "mi_name": "PriceDiscGroup_Cust",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Inventory management->Setup->Inventory and warehouse management parameters [SG]": {
+    "mi_name": "InventParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory management workflows [SG]": {
+    "mi_name": "WorkflowConfigurationInvent",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Counting reason codes [SG]": {
+    "mi_name": "InventCountingReasonCode",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory breakdown->Inventory aisles [SG]": {
+    "mi_name": "WMSAisle",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory breakdown->Inventory locations [SG]": {
+    "mi_name": "WMSLocation",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Journal names->Inventory [SG] & Item arrival journal": {
+    "mi_name": "InventJournalTableAsset",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Shipping carriers[SG]": {
+    "mi_name": "TMSCarrier",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Policies > Purchasing policies > Category policy rule [MY30,MY60,SG60]": {
+    "mi_name": "PurchPolicyListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Policies > Purchasing policies > Purchase order creation and demand consolidation rule [MY30,MY60,SG60]": {
+    "mi_name": "PurchPolicyListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Organization administration > Workflow > Workflow parameters [MY30,MY60,SG60]": {
+    "mi_name": "WorkflowParametersAdmin",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Product information management > Setup > Product lifecycle state [MY30,MY60,SG60]": {
+    "mi_name": "EcoResProductLifecycleState",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-002] Transportation management > Setup > Rating > Acme asia > Freight rate master [SG]": {
+    "mi_name": "TMSTransportationStatusMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Package size type [SG]": {
+    "mi_name": "TMSCarrierTransportationStatus",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Freight unit matrix table[SG]": {
+    "mi_name": "TMSCarrierTransportationStatus",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-002] Transportation management > Setup > Rating > Acme asia > Freight rate master [MY]": {
+    "mi_name": "TMSTransportationStatusMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Package size type [MY]": {
+    "mi_name": "TMSCarrierTransportationStatus",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Freight unit matrix table[MY]": {
+    "mi_name": "TMSCarrierTransportationStatus",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Inventory breakdown > Warehouses": {
+    "mi_name": "InventLocations",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Acme HuB > Empties management > Empties FG groups": {
+    "mi_name": "CHBEmptiesFGGroups",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Acme HuB > Empties management > Empties groups": {
+    "mi_name": "CHBEmptiesGroups",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "FDD-QCA-003 Batch Job Creation System Administration --> Enquiries --> Batch Jobs.": {
+    "mi_name": "AssetLeaseCreatePostJournal_BatchNew",
+    "mi_type": "Action",
+    "hint": null
+  },
+  "FDD-QCA-003 Quality Association Configuration, Inventory Management -> Setup -> Quality Control-> Quality Association": {
+    "mi_name": "InventTestAssociationTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[RDD-QCP-001] Inventory Management -> Setup -> Inventory and warehouse management parameters": {
+    "mi_name": "InventParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Asset management > Setup > Acme Asia > Reason code for spare part changes": {
+    "mi_name": "EntAssetWorkOrderPurchaseListPageMy",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Acme Asia > Empties management > Empties alert > Empties alert configuration": {
+    "mi_name": "CBAEmptiesAlertConfiguration",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management > Setup > Engines > Zone master": {
+    "mi_name": "TMSZoneMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Supplier transit time": {
+    "mi_name": null,
+    "mi_type": null,
+    "hint": null
+  },
+  "Warehouse management->Setup->Cycle counting->Cycle count plans [MY]": {
+    "mi_name": "WHSCycleCountPlan",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Acme Asia > Credit limit calculation parameter": {
+    "mi_name": "CBACreditLimitCalcParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Acme Asia > Collateral security master": {
+    "mi_name": "CBACollateralSecurityMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Acme Asia > Margin of collateral": {
+    "mi_name": "CBACollMargin",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Credit management setup > Account statuses": {
+    "mi_name": "RetailCreditVoucherTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "RDD-QCP-002: Inventory and warehouse management -> Setup -> Inventory and warehouse management parameters ->Acme-> NC (POH) Revision Number": {
+    "mi_name": "DocuParameters",
+    "mi_type": "Display",
+    "hint": "POH"
+  },
+  "Accounts receivable > Setup > Acme Asia > Distributor incentive set up": {
+    "mi_name": "CBACustomerIncentiveParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "General ledger > Ledger setup > General ledger parameters": {
+    "mi_name": "LedgerParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Inventory and warehouse management parameters": {
+    "mi_name": "InventParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Data processing framework > Setup > PAF claim journal setup": {
+    "mi_name": "CBAPAFClaimJourSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Inventory breakdown > Warehouses (embedded in email)": {
+    "mi_name": "InventLocations",
+    "mi_type": "Display",
+    "hint": "embedded in email"
+  },
+  "Rebate management > Rebate invoice > Setup > Rebate invoice parameter": {
+    "mi_name": "CBAInvoiceChargeTrackingParameter",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Rebate management > Return incentive > Setup > Customer incentive parameters": {
+    "mi_name": "CBACustomerIncentiveParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit limit risk category (cropped)": {
+    "mi_name": null,
+    "mi_type": null,
+    "hint": null
+  },
+  "Accounts receivable/Account payable/Cash and bank > Payments Netting > Netting agreement > Finalization of the Netting GL Account": {
+    "mi_name": "CustVendNettingAgreement",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Credit and collections parameters > Set up number sequences for Collection letter and Collection letter voucher": {
+    "mi_name": "CustCollectionsCaseListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Customer write-off reason codes > Customer write-off reason codes": {
+    "mi_name": "CustWriteOffFinancialReasonsSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Production control parameters": {
+    "mi_name": "ProdParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Production journal names": {
+    "mi_name": "ProdJournalName",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Production > Production pools": {
+    "mi_name": "ProdPool",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Calendars > Calendars": {
+    "mi_name": "HcmWorkCalendarTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Calendars > Working time templates": {
+    "mi_name": "WorkTimeTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Acme > Configure batch number rule": {
+    "mi_name": "CBInventBatchConfigRule",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Test Variables": {
+    "mi_name": "InventTestVariable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory and warehouse management parameters [MY]": {
+    "mi_name": "InventParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory breakdown->Sites": {
+    "mi_name": "InventSite",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory Management -> Setup -> Quality control -> Item samplings": {
+    "mi_name": "InventTestItemQualityGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Acme asia > Global setting > Batch number configuration database table": {
+    "mi_name": "CBInventBatchConfigRuleSegmentTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory Management --> Setup -> Quality control -> Calibration group": {
+    "mi_name": "QMSInventCalibrationGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Calibration procedures": {
+    "mi_name": "QMSInventCalibrationProcedure",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality management -> Correction root cause codes": {
+    "mi_name": "QMSInventTestRootCause",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality management -> Diagnostic types": {
+    "mi_name": "InventTestDiagnosticType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality management -> Non conformance operation groups": {
+    "mi_name": "QMSInventTestOperationGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> setup -> Quality management -> Non conformance work groups": {
+    "mi_name": "QMSInventNonConformanceWorkGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality management -> Operation (Quality )": {
+    "mi_name": "InventQualityOrderTable",
+    "mi_type": "Display",
+    "hint": "Quality"
+  },
+  "Inventory management -> Setup -> Quality management -> Problem types": {
+    "mi_name": "InventProblemType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Batch -> Batch disposition master": {
+    "mi_name": "PdsDispositionMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Acme Asia -> Quality User Group": {
+    "mi_name": "CBQualityUserGroupTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Acme Asia ->Movement journal reason code": {
+    "mi_name": "CBAFMovementJournalReasonCode",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Acme Asia -> Test value modify reason code": {
+    "mi_name": "CBTestValueModifyReasonCode",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Acme Asia -> Global Setting -> Sample name code": {
+    "mi_name": "CBSampleNameCodeTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Acme Asia -> Global setting -> Test classification code": {
+    "mi_name": "CBTestClassificationCode",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts receivable > Setup > Billing classifications": {
+    "mi_name": "CustBillingClassification",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Credit management setup > Credit management groups": {
+    "mi_name": "RetailCreditVoucherTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Credit management setup > Credit management reasons": {
+    "mi_name": "RetailCreditVoucherTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Credit management setup > Blocking rules": {
+    "mi_name": "RetailCreditVoucherTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Transportation management parameters[SG]": {
+    "mi_name": "TMSParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Transportation status masters[SG]": {
+    "mi_name": "TMSTransportationStatusMaster",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Appointment scheduling->Appointment rules[SG]": {
+    "mi_name": "TMSCalendarType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Appointment scheduling->Appointment change reasons[SG]": {
+    "mi_name": "TMSChangeReason",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Carrier group[SG]": {
+    "mi_name": "TMSCarrierGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Transportation methods[SG]": {
+    "mi_name": "TMSMethod",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Carriers->Transportation templates[SG]": {
+    "mi_name": "TMSTransportationTemplate",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Load building-> Load templates [SG]": {
+    "mi_name": "TMSTransportationTemplate",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Transportation management->Setup->Load building->Equipment[SG]": {
+    "mi_name": "TMSEquipment",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Calibration label Layout": {
+    "mi_name": "QMSInventCalibrationLabelLayout",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Product information management > Setup > Categories and attributes > Product attribute type and Product attribute [MY30,MY60,SG60]": {
+    "mi_name": "EcoResProductParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Cash and bank management > Setup > Cash and bank management parameters": {
+    "mi_name": "BankParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Cost accounting > Setup > Parameters": {
+    "mi_name": "CostInventParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Cost management > Inventory accounting policies setup > Parameters": {
+    "mi_name": "CostProdParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Cost management > Manufacturing accounting policies setup > Parameters": {
+    "mi_name": "CostProdParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Cost management > Ledger integration policies setup > Parameters": {
+    "mi_name": "CostProdParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Product information management > Setup > Product information management parameters [MY30,MY60,SG60]": {
+    "mi_name": "EcoResProductParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Organization Administration > Document management > Active document tables": {
+    "mi_name": "DocuTableEnabled",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Organization Administration > Setup > Calendars > Period types": {
+    "mi_name": "ProjPeriodTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Organization Administration > Global address book > Registration types > Registration types": {
+    "mi_name": "TaxRegistrationType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "[FDD-TMS-001] Transportation management > Setup > Rating > Acme asia > Holiday markup rate [SG]": {
+    "mi_name": "TMSCarrierTransportationStatus",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "General ledger > Acme > Global setting > HFM setup table > HFM setup table": {
+    "mi_name": "CBAHFMSetupTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Sales and marketing > Setup > Sales and marketing parameters": {
+    "mi_name": "smmParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "General ledger > Acme > Global setting > HFM setup table > ASIA Brand": {
+    "mi_name": "CBAHFMSetupTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Posting invoice dialog (modal)": {
+    "mi_name": null,
+    "mi_type": null,
+    "hint": null
+  },
+  "Credit and collections > Setup > Acme Asia > Collateral security type": {
+    "mi_name": "CBACollateralSecurityType",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Credit and collections > Setup > Acme Asia > Collateral reminder frequency": {
+    "mi_name": "CBACollRemindFreq",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Posting > Posting": {
+    "mi_name": "InventPosting",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts receivable > Setup > Acme Asia > Order purposes": {
+    "mi_name": "TMSShippingCarrierCustomerAccountCriteria",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Tax calculation feature version (Global Tax Engine)": {
+    "mi_name": null,
+    "mi_type": null,
+    "hint": null
+  },
+  "Accounts receivable > Setup > Acme Asia > Sponsorship journal set up": {
+    "mi_name": "CBASponsorshipJournalParameter",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Data processing framework > Setup > PAF accrual journal setup": {
+    "mi_name": "CBAPAFAccrualJourSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts receivable/Account payable/Cash and bank > Payments Netting > Netting agreement": {
+    "mi_name": "CustVendNettingAgreement",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Routes > Operations": {
+    "mi_name": "InventTestOperation",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Routes > Route groups": {
+    "mi_name": "RouteGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Resources > Resource groups": {
+    "mi_name": "WrkCtrResourceGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Production control > Setup > Acme > Configure production notification": {
+    "mi_name": "CBProductionNotification",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality control -> Workers responsible for quality": {
+    "mi_name": "InventTestEmplResponsible",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management > Setup > Quality control > Acme Asia> Material default batch disposal code": {
+    "mi_name": "CBMaterialDefaultBatchDisposalCode",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management -> Setup -> Quality management -> Quality charges": {
+    "mi_name": "InventTestMiscCharges",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "System Administration -> Periodic -> Acme -> Email Group": {
+    "mi_name": "CBEmailGroup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "System administration -> Setup -> Email ->System email template": {
+    "mi_name": "SysEmailSystemTable",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Product information management > Setup > Categories and attributes > Batch attributes": {
+    "mi_name": "PdsBatchAttrib",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Posting->Transaction combinations [MY]": {
+    "mi_name": "InventPostingParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Pricing management> Setup> Trade agreement prices > Trade agreement journal names (SG)": {
+    "mi_name": "GUPPriceDiscAdmName_Sales",
+    "mi_type": "Display",
+    "hint": "SG"
+  },
+  "Pricing management> Setup> Price component codes> Price component code groups (SG)": {
+    "mi_name": "GUPPriceComponentCodeGroup",
+    "mi_type": "Display",
+    "hint": "SG"
+  },
+  "Pricing management> Setup> Price component codes> Price tree (SG)": {
+    "mi_name": "GUPPriceComponentCode",
+    "mi_type": "Display",
+    "hint": "SG"
+  },
+  "Sales and marketing> Prices and discounts> Customer price/discount groups (SG)": {
+    "mi_name": "PriceDiscGroup_Cust",
+    "mi_type": "Display",
+    "hint": "SG"
+  },
+  "Pricing management> During-sales pricing> Charge code> Auto charge (MY)": {
+    "mi_name": "GUPMarkupAutoSetup_Cust",
+    "mi_type": "Display",
+    "hint": "MY"
+  },
+  "Inventory management->Setup->Distribution->Arrival overview profiles [SG]": {
+    "mi_name": "WMSArrivalOverviewProfile",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Procurement and sourcing parameters [MY30,MY60,SG60]": {
+    "mi_name": "SrmParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Organization administration > Setup > Signing limits > Signing limit parameters (Signing limit policy parameters) [MY30,MY60,SG60]": {
+    "mi_name": "HRPLimitPolicyControls",
+    "mi_type": "Display",
+    "hint": "Signing limit policy parameters"
+  },
+  "Organization administration > Setup > Signing limits > COA setup [MY30,MY60,SG60]": {
+    "mi_name": "EngChgEngineeringOrganization",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Policies > Purchasing policies > Purchase requisition control rule [MY30,MY60,SG60]": {
+    "mi_name": "PurchPolicyListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Policies > Purchasing policies > Requisition purpose rule [MY30,MY60,SG60]": {
+    "mi_name": "PurchPolicyListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts payable > Setup > Accounts payable workflows > Workflow approval for proposed vendor change (bank account) [MY30,MY60,SG60]": {
+    "mi_name": "AmcBankWorkflowVendBankAccountHistoryList",
+    "mi_type": "Display",
+    "hint": "bank account"
+  },
+  "Accounts payable > Setup > Accounts payable workflows > Proposed vendor changes workflow [MY30,MY60,SG60]": {
+    "mi_name": "PdsInventInquiryApprovedVendorExpiration",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Summary update parameters [MY30,MY60,SG60]": {
+    "mi_name": "PurchSummaryParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Procurement and sourcing parameters > Acme asia > Vendor field validation [MY30,MY60,SG60]": {
+    "mi_name": "VendParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Procurement and sourcing parameters > Acme asia > Send PO document via Email [MY30,MY60,SG60]": {
+    "mi_name": "ERBDParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Procurement and sourcing > Setup > Procurement and sourcing parameters > Acme asia > PR generate PO [MY30,MY60,SG60]": {
+    "mi_name": "LedgerParameters",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts payable > Setup > Accounts payable parameters > Acme asia > Vendor email contact information approval [MY30,MY,60,SG60]": {
+    "mi_name": "CatVendorCatalogImportParameter",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts receivable > Customers > All customers": {
+    "mi_name": "CustTableListPage",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Warehouse management > Setup > Warehouse > Warehouses [SG]": {
+    "mi_name": "InventLocations",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Accounts receivable parameters (Ledger and sales tax tab)": {
+    "mi_name": null,
+    "mi_type": null,
+    "hint": null
+  },
+  "Credit and collections > Periodic tasks > Credit management > Sales order credit prioritization": {
+    "mi_name": "CBASalesOrderCreditPrioritization",
+    "mi_type": "Action",
+    "hint": null
+  },
+  "General ledger parameters (partial - email/reporting fields)": {
+    "mi_name": null,
+    "mi_type": null,
+    "hint": null
+  },
+  "Data processing framework > Setup > Entitlement journal setup": {
+    "mi_name": "CBAEntitlementJourSetup",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Tax > Indirect taxes > Sales tax > Sales tax settlement periods": {
+    "mi_name": "TaxPeriod",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Blocking causes [SG]": {
+    "mi_name": "WMSBlockingCause",
+    "mi_type": "Display",
+    "hint": null
+  },
+  "Inventory management->Setup->Inventory->Counting reason code groups [SG]": {
+    "mi_name": "InventCountingReasonCodeGroup",
+    "mi_type": "Display",
+    "hint": null
+  }
+}
